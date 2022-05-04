@@ -1,6 +1,34 @@
 {
     "life": [
         {
+            "author": "Brad Callas",
+            "desc": "A 100-year-old Brazilian man has set the Guinness World Record for the longest tenure at the same company, after working for an organization for 84 years.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/slhthxpm3vfs1wsfpeyc/100-year-old-worker-guinness-world-record.jpg",
+            "title": "100-Year-Old Man Sets Guinness World Record by Working for Same Company for 84 Years",
+            "url": "https://www.complex.com/life/100-year-old-man-guiness-world-record-working-same-company-84-years"
+        },
+        {
+            "author": "Brenton Blanchet",
+            "desc": "The climber, who goes by the name of Maison Des Champs on Instagram, climbed the 1,000-foot-tall skyscraper before he was taken into custody Tuesday.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/cgexem9zfz9ss7fefc5z/tower-climb.jpg",
+            "title": "Anti-Abortion Protester Detained After Scaling Salesforce Tower in San Francisco ",
+            "url": "https://www.complex.com/life/san-francisco-salesforce-tower-climber-detained-abortion-rights-protest"
+        },
+        {
+            "author": "Elisa Ammaturo",
+            "desc": "Toronto Police say suspects committing violent acts with the sole intention of stealing vehicles for profit in an investigation called \"Project Tyga.\"",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/jkktvaxqikiqtdgj1sn1/toronto-police-carjacking.jpg",
+            "title": "2 Toronto Suspects Used \"Extreme Violence\" in Carjacking Spree, Say Police",
+            "url": "https://www.complex.com/life/two-suspects-arrested-in-the-gta-after-month-long-violent-carjacking-crime-spree"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "Nine years after Paul Walker died in a single-car collision at age 40, the 'Fast &amp; Furious' star's brother is warning people about the dangers of street racing.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/txaelyq98xihmm8kbnki/paul-walker-psa-street-racing.jpg",
+            "title": "Paul Walker's Brother Warns That the Dangers of Street Racing Are 'Not Worth the Risk' in New PSA Video",
+            "url": "https://www.complex.com/pop-culture/paul-walker-brother-warns-dangers-street-racing-new-psa-video"
+        },
+        {
             "author": "Brenton Blanchet",
             "desc": "A mother of three is accused of shooting at a car of teenagers during a road rage incident. She allegedly got her nails done immediately after the shooting. ",
             "img_url": "https://images.complex.com/images/c_limit/w_1920/ivumsbie1jz5iq3xpzhg/woman-gun.jpg",
@@ -41,174 +69,188 @@
             "img_url": "https://images.complex.com/images/c_limit/w_1920/y4i7rsdjiqidf4agmv7e/roe-wade-leaked-draft.jpg",
             "title": "Leaked Supreme Court Draft Opinion Shows Plan to Overturn Roe v. Wade, Chief Justice John Roberts Responds (UPDATE)",
             "url": "https://www.complex.com/life/leaked-supreme-court-draft-opinion-reportedly-shows-plans-to-overturn-roe-v-wade-reactions"
-        },
-        {
-            "author": "Jose Martinez",
-            "desc": "A school bus driver in Louisiana was arrested after authorities were notified of footage of him hitting and kicking a student several times on the bus.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/fheu24i7ikhp5vmutj6j/jerome-mcnabb-mugshot.jpg",
-            "title": "School Bus Driver Arrested After Footage Showing Him Repeatedly Hit Student on Bus Surfaces ",
-            "url": "https://www.complex.com/life/school-bus-driver-arrested-video-hitting-student"
-        },
-        {
-            "author": "Joe Price",
-            "desc": "On 'Divorce Court' a man admitted he didn't return his fiancee's car at the agreed-upon time because he had a \"rare\" chance to play basketball with OMB Peezy.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/emrmwtrubfk4a6it2b16/divorce-court.jpg",
-            "title": "Man Admits on 'Divorce Court' He Didn't Return Fiancee's Car So He Could Shoot Hoops With OMB Peezy, Rapper Reacts",
-            "url": "https://www.complex.com/music/man-divorce-court-didnt-return-fiancee-car-play-basketball-with-omb-peezy-reacts"
-        },
-        {
-            "author": "Joe Price",
-            "desc": "In an interview with the 'Sunday Times,' Microsoft founder Bill Gates said he would \"marry Melinda all over again\" despite their divorce last year.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/crtlb2h1e5cfctmadisu/bill-and-melinda-gates.jpg",
-            "title": "Bill Gates Says He Would 'Marry Melinda All Over Again' Despite Divorce, Addresses Jeffrey Epstein Connection",
-            "url": "https://www.complex.com/life/bill-gates-marry-melinda-all-over-again-despite-divorce"
         }
     ],
     "main": [
         {
-            "author": "Joe Price",
-            "desc": "As revealed in a Universal Music Group earnings call, Drake has signed a new multifaceted deal that could be valued as high as $400 million.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/chamo8jvrdklcwkoyz6f/drake-at-the-game.jpg",
-            "title": "Drake Signs Universal Music Group Deal Reportedly Valued at $400 Million",
-            "url": "https://www.complex.com/music/drake-signs-universal-music-group-deal"
-        },
-        {
-            "author": "Brenton Blanchet",
-            "desc": "During a recent Clubhouse conversation with Brother Ben X, Wack asked about the money raised during the 1995 Million Man March, and where it went. ",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/w5xw4elh7rnp1okktdey/jay.jpg",
-            "title": "Jay Electronica Calls Out Wack 100 Over Nation of Islam Comments: 'I Got That Fire You Looking For'",
-            "url": "https://www.complex.com/music/jay-electronica-calls-out-wack-100-nation-of-islam-comments"
-        },
-        {
-            "author": "Mackenzie Cummings-Grady",
-            "desc": "HARD Summer Music Festival's lineup for its 2022 event has been unveiled, featuring Megan Thee Stallion, Lil Uzi Vert, Gunna, Three 6 Mafia, and more.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/pgnww5zsnp5mmdrczwxf/megan-thee-stallion-perform.jpg",
-            "title": "HARD Summer 2022 Lineup Announced: Megan Thee Stallion, Lil Uzi Vert, Gunna, and More",
-            "url": "https://www.complex.com/music/hard-summer-2022-lineup"
-        },
-        {
-            "author": "Joe Price",
-            "desc": "In an extensive new interview reflecting on his career so far, Pusha-T said that he's really not a fan of Clipse's 'Til the Casket Drops       .'",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/ea1uiv9relsew325hg4h/pusha-t.jpg",
-            "title": "Pusha-T Hates Clipse's 'Til the Casket Drops,' Says He Was 'Mad' His Album Was Released First From Wyoming Sessions",
-            "url": "https://www.complex.com/music/pusha-t-hates-clipses-til-the-casket-drops"
-        },
-        {
-            "author": "James Keith",
-            "desc": "The East London rhymer gets us all fired up for the festival season this summer with a rapid-fire run-through of some of grime's greatest hits.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/mnq1vh204r3vnzwwjam5/shasimone-credit-annavpeak.jpg",
-            "title": "ShaSimone Salutes Grime History With Jumpy \"Lock Off\"",
-            "url": "https://www.complex.com/music/shasimone-lock-off"
-        },
-        {
-            "author": "Oren Weisfeld",
-            "desc": "We spoke to Bartlett about the need for a basketball showcase like GLOBL JAM in Canada, gender equity in sports, the future of Canadian hoops, and more. ",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/aatxytkj7iipsztggocq/charles-bediako.jpg",
-            "title": "Canada Basketball CEO Michael Bartlett on GLOBL JAM, Gender Equity, and the Future of Canadian Hoops",
-            "url": "https://www.complex.com/sports/canada-basketball-globl-jam-interview"
+            "author": "Brad Callas",
+            "desc": "Ye is facing a lawsuit after a Texas pastor sued the rapper for allegedly sampling his sermon on the 'Donda' track \"Come to Life\" without getting authorization.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/at4tsnepdddgay5244r8/kanye-west-lawsuit-pastor.jpg",
+            "title": "Pastor Sues Kanye West for Allegedly Using His Sermon on 'Donda' Track \"Come to Life\" Without Permission ",
+            "url": "https://www.complex.com/music/kanye-west-sued-by-pastor-used-sermon-donda-track-come-to-life"
         },
         {
             "author": "Brad Callas",
-            "desc": "Ahead of the release of his second studio album 'Come Home the Kids Miss You,' Jack Harlow has unveiled the tracklist and features for the project.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/snravq5norkypeuhbcqm/jack-harlow-press-photo-2022.jpg",
-            "title": "Jack Harlow Reveals 'Come Home the Kids Miss You' Tracklist and Features, Album Includes Song Named After Dua Lipa",
-            "url": "https://www.complex.com/music/jack-harlow-come-home-the-kids-miss-you-album-tracklist-features"
+            "desc": "A 100-year-old Brazilian man has set the Guinness World Record for the longest tenure at the same company, after working for an organization for 84 years.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/slhthxpm3vfs1wsfpeyc/100-year-old-worker-guinness-world-record.jpg",
+            "title": "100-Year-Old Man Sets Guinness World Record by Working for Same Company for 84 Years",
+            "url": "https://www.complex.com/life/100-year-old-man-guiness-world-record-working-same-company-84-years"
         },
         {
-            "author": "Trace William Cowen",
-            "desc": "The new album--the duo of Yasiin Bey and Talib Kweli's first in nearly 24 years--arrives today as a Luminary exclusive and spans nine new songs.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/aoozkrfx8srlpcfts7pd/blackstar.jpg",
-            "title": "Listen to Black Star's First New Album in 24 Years 'No Fear of Time' Produced by Madlib",
-            "url": "https://www.complex.com/music/black-star-no-fear-of-time-album-release"
+            "author": "Brad Callas",
+            "desc": "After less than two years of marriage, Mustard has filed for divorce from his wife, Chanel Thierry. The couple have three children together.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/h7m5ectv0d2g3rhflv0l/mustard-chanel-thierry.jpg",
+            "title": "Mustard Has Filed for Divorce From Wife Chanel Thierry",
+            "url": "https://www.complex.com/music/mustard-files-divorce-chanel-thierry"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "Post Malone is going to be a father. The artist and his girlfriend are expecting their first child together, a rep for the rapper confirmed to Complex.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/o52vukyrs5ocmqduqw7u/post-malone-baby.jpg",
+            "title": "Post Malone Announces He's Expecting His First Child: 'I'm the Happiest I've Ever Been'",
+            "url": "https://www.complex.com/music/post-malone-expecting-first-child-with-girlfriend"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "Ahead of the release of his second studio album, 'Come Home the Kids Miss You,' which drops on Friday, Jack Harlow stopped by Hot 97 to chat with Ebro and co.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/fwn4atan3fpxeiei6m5i/jack-harlow-talks-drake-leak.jpg",
+            "title": "Jack Harlow Addresses Leaked Drake Collab, Says It 'Hurt My Feelings'",
+            "url": "https://www.complex.com/music/jack-harlow-addresses-leaked-drake-collab"
         },
         {
             "author": "Brenton Blanchet",
-            "desc": "A mother of three is accused of shooting at a car of teenagers during a road rage incident. She allegedly got her nails done immediately after the shooting. ",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/ivumsbie1jz5iq3xpzhg/woman-gun.jpg",
-            "title": "Woman Allegedly Shot Teen in Face in Road Rage Incident, Got Nails Done Afterwards",
-            "url": "https://www.complex.com/life/woman-allegedly-shot-teen-face-road-rage-got-nails-done"
+            "desc": "The climber, who goes by the name of Maison Des Champs on Instagram, climbed the 1,000-foot-tall skyscraper before he was taken into custody Tuesday.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/cgexem9zfz9ss7fefc5z/tower-climb.jpg",
+            "title": "Anti-Abortion Protester Detained After Scaling Salesforce Tower in San Francisco ",
+            "url": "https://www.complex.com/life/san-francisco-salesforce-tower-climber-detained-abortion-rights-protest"
+        },
+        {
+            "author": "Elisa Ammaturo",
+            "desc": "Toronto Police say suspects committing violent acts with the sole intention of stealing vehicles for profit in an investigation called \"Project Tyga.\"",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/jkktvaxqikiqtdgj1sn1/toronto-police-carjacking.jpg",
+            "title": "2 Toronto Suspects Used \"Extreme Violence\" in Carjacking Spree, Say Police",
+            "url": "https://www.complex.com/life/two-suspects-arrested-in-the-gta-after-month-long-violent-carjacking-crime-spree"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "During an episode of his new Peacock series 'It's So Dumb It's Criminal,' Snoop Dogg used 6ix9ine's name for an award he gave out to someone who snitched.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/hjo9p1ytcbwtcqnm9eln/snoop-dogg-6ix9ine.jpg",
+            "title": "Snoop Dogg Trolls 6ix9ine With 'Memorial Snitch Award' on 'It's So Dumb It's Criminal' TV Show",
+            "url": "https://www.complex.com/music/snoop-dogg-trolls-6ix9ine-with-memorial-snitch-award-peacock-series"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "Nine years after Paul Walker died in a single-car collision at age 40, the 'Fast &amp; Furious' star's brother is warning people about the dangers of street racing.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/txaelyq98xihmm8kbnki/paul-walker-psa-street-racing.jpg",
+            "title": "Paul Walker's Brother Warns That the Dangers of Street Racing Are 'Not Worth the Risk' in New PSA Video",
+            "url": "https://www.complex.com/pop-culture/paul-walker-brother-warns-dangers-street-racing-new-psa-video"
         },
         {
             "author": "Brenton Blanchet",
-            "desc": "People stirred up rumors online after Billie Eilish was captured on video saying the words \"so weird\" in Cardi B's direction at a Met Gala after party.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/gja7bexnesnfz2nwj4df/cardi-b-calls-people-out-billie-eilish.jpg",
-            "title": "Cardi B Rips People for Trying to Start Drama Between Her and Billie Eilish, Posts Voice Memo From Singer\t",
-            "url": "https://www.complex.com/music/cardi-b-rips-people-trying-start-drama-billie-eilish"
+            "desc": "Posey appeared on the TLC program at least twice starting in 2012, and her mother said in a 2016 episode that she began to do pageants at age 3.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/ofvy6i07jzu25vnzkvwp/kailia.jpg",
+            "title": "Kailia Posey, 'Toddlers & Tiaras' Star and Face of Popular Meme, Has Died at Age 16",
+            "url": "https://www.complex.com/pop-culture/kailia-posey-toddlers-tiaras-star-meme-dead-at-16"
         }
     ],
     "music": [
         {
-            "author": "Joe Price",
-            "desc": "As revealed in a Universal Music Group earnings call, Drake has signed a new multifaceted deal that could be valued as high as $400 million.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/chamo8jvrdklcwkoyz6f/drake-at-the-game.jpg",
-            "title": "Drake Signs Universal Music Group Deal Reportedly Valued at $400 Million",
-            "url": "https://www.complex.com/music/drake-signs-universal-music-group-deal"
-        },
-        {
-            "author": "Brenton Blanchet",
-            "desc": "During a recent Clubhouse conversation with Brother Ben X, Wack asked about the money raised during the 1995 Million Man March, and where it went. ",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/w5xw4elh7rnp1okktdey/jay.jpg",
-            "title": "Jay Electronica Calls Out Wack 100 Over Nation of Islam Comments: 'I Got That Fire You Looking For'",
-            "url": "https://www.complex.com/music/jay-electronica-calls-out-wack-100-nation-of-islam-comments"
-        },
-        {
-            "author": "Mackenzie Cummings-Grady",
-            "desc": "HARD Summer Music Festival's lineup for its 2022 event has been unveiled, featuring Megan Thee Stallion, Lil Uzi Vert, Gunna, Three 6 Mafia, and more.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/pgnww5zsnp5mmdrczwxf/megan-thee-stallion-perform.jpg",
-            "title": "HARD Summer 2022 Lineup Announced: Megan Thee Stallion, Lil Uzi Vert, Gunna, and More",
-            "url": "https://www.complex.com/music/hard-summer-2022-lineup"
-        },
-        {
-            "author": "Joe Price",
-            "desc": "In an extensive new interview reflecting on his career so far, Pusha-T said that he's really not a fan of Clipse's 'Til the Casket Drops       .'",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/ea1uiv9relsew325hg4h/pusha-t.jpg",
-            "title": "Pusha-T Hates Clipse's 'Til the Casket Drops,' Says He Was 'Mad' His Album Was Released First From Wyoming Sessions",
-            "url": "https://www.complex.com/music/pusha-t-hates-clipses-til-the-casket-drops"
-        },
-        {
-            "author": "James Keith",
-            "desc": "The East London rhymer gets us all fired up for the festival season this summer with a rapid-fire run-through of some of grime's greatest hits.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/mnq1vh204r3vnzwwjam5/shasimone-credit-annavpeak.jpg",
-            "title": "ShaSimone Salutes Grime History With Jumpy \"Lock Off\"",
-            "url": "https://www.complex.com/music/shasimone-lock-off"
+            "author": "Brad Callas",
+            "desc": "Ye is facing a lawsuit after a Texas pastor sued the rapper for allegedly sampling his sermon on the 'Donda' track \"Come to Life\" without getting authorization.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/at4tsnepdddgay5244r8/kanye-west-lawsuit-pastor.jpg",
+            "title": "Pastor Sues Kanye West for Allegedly Using His Sermon on 'Donda' Track \"Come to Life\" Without Permission ",
+            "url": "https://www.complex.com/music/kanye-west-sued-by-pastor-used-sermon-donda-track-come-to-life"
         },
         {
             "author": "Brad Callas",
-            "desc": "Ahead of the release of his second studio album 'Come Home the Kids Miss You,' Jack Harlow has unveiled the tracklist and features for the project.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/snravq5norkypeuhbcqm/jack-harlow-press-photo-2022.jpg",
-            "title": "Jack Harlow Reveals 'Come Home the Kids Miss You' Tracklist and Features, Album Includes Song Named After Dua Lipa",
-            "url": "https://www.complex.com/music/jack-harlow-come-home-the-kids-miss-you-album-tracklist-features"
+            "desc": "After less than two years of marriage, Mustard has filed for divorce from his wife, Chanel Thierry. The couple have three children together.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/h7m5ectv0d2g3rhflv0l/mustard-chanel-thierry.jpg",
+            "title": "Mustard Has Filed for Divorce From Wife Chanel Thierry",
+            "url": "https://www.complex.com/music/mustard-files-divorce-chanel-thierry"
         },
         {
-            "author": "Trace William Cowen",
-            "desc": "The new album--the duo of Yasiin Bey and Talib Kweli's first in nearly 24 years--arrives today as a Luminary exclusive and spans nine new songs.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/aoozkrfx8srlpcfts7pd/blackstar.jpg",
-            "title": "Listen to Black Star's First New Album in 24 Years 'No Fear of Time' Produced by Madlib",
-            "url": "https://www.complex.com/music/black-star-no-fear-of-time-album-release"
+            "author": "Brad Callas",
+            "desc": "Post Malone is going to be a father. The artist and his girlfriend are expecting their first child together, a rep for the rapper confirmed to Complex.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/o52vukyrs5ocmqduqw7u/post-malone-baby.jpg",
+            "title": "Post Malone Announces He's Expecting His First Child: 'I'm the Happiest I've Ever Been'",
+            "url": "https://www.complex.com/music/post-malone-expecting-first-child-with-girlfriend"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "Ahead of the release of his second studio album, 'Come Home the Kids Miss You,' which drops on Friday, Jack Harlow stopped by Hot 97 to chat with Ebro and co.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/fwn4atan3fpxeiei6m5i/jack-harlow-talks-drake-leak.jpg",
+            "title": "Jack Harlow Addresses Leaked Drake Collab, Says It 'Hurt My Feelings'",
+            "url": "https://www.complex.com/music/jack-harlow-addresses-leaked-drake-collab"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "During an episode of his new Peacock series 'It's So Dumb It's Criminal,' Snoop Dogg used 6ix9ine's name for an award he gave out to someone who snitched.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/hjo9p1ytcbwtcqnm9eln/snoop-dogg-6ix9ine.jpg",
+            "title": "Snoop Dogg Trolls 6ix9ine With 'Memorial Snitch Award' on 'It's So Dumb It's Criminal' TV Show",
+            "url": "https://www.complex.com/music/snoop-dogg-trolls-6ix9ine-with-memorial-snitch-award-peacock-series"
         },
         {
             "author": "Brenton Blanchet",
-            "desc": "People stirred up rumors online after Billie Eilish was captured on video saying the words \"so weird\" in Cardi B's direction at a Met Gala after party.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/gja7bexnesnfz2nwj4df/cardi-b-calls-people-out-billie-eilish.jpg",
-            "title": "Cardi B Rips People for Trying to Start Drama Between Her and Billie Eilish, Posts Voice Memo From Singer\t",
-            "url": "https://www.complex.com/music/cardi-b-rips-people-trying-start-drama-billie-eilish"
+            "desc": "The trailer teases \"the true untold story\" of the Al, who has been crafting parody tracks for decades, as the character promises he's \"full of surprises.\"",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/cai3iyvl1sgkffpdzuhj/daniel-radcliffe.jpg",
+            "title": "Daniel Radcliffe Stars in First Trailer for Weird Al Yankovic Biopic",
+            "url": "https://www.complex.com/pop-culture/daniel-radcliffe-trailer-weird-al-yankovic-biopic"
+        },
+        {
+            "author": "Elisa Ammaturo",
+            "desc": "Ottawa rapper TwoTiime is back with the second official single of his 2022 campaign, \"On The Edge,\" produced by Deep Hartt and JabariOnTheBeat.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/u60pjycxkxbxckbfimmv/on-the-edge-cover-art.jpg",
+            "title": "Ottawa's TwoTiime Stands \"On The Edge\" in New Music Video",
+            "url": "https://www.complex.com/music/twotiime-on-the-edge"
+        },
+        {
+            "author": "Trace William Cowen",
+            "desc": "Carti has been revealed as a founding partner in the cocktail brand Thomas Ashbourne Craft Spirits. Sadly, his signature drink isn't named Vampscatto.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/ddkt0qgnyf8ipciv8uxm/carti.jpg",
+            "title": "Playboi Carti Enters the Signature Drink Space With Launch of Pre-Made Hardscatto Cocktail",
+            "url": "https://www.complex.com/style/playboi-carti-enters-signature-drink-space-with-launch-of-pre-made-hardscatto-cocktail"
+        },
+        {
+            "author": "Brenton Blanchet",
+            "desc": "Kendrick Lamar's 'Mr. Morale &amp; The Big Steppers' might be bigger than fans initially thought, as the rapper has posted a photo drawing renewed speculation.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/ur6guquxosvpdhfwztfv/kendrick.jpg",
+            "title": "Kendrick Shares 'Mr. Morale & The Big Steppers' Update and Fans Think He's Hinting at a Double Album",
+            "url": "https://www.complex.com/music/kendrick-lamar-shares-mr-morale-and-the-big-steppers-update-fans-hinting-at-double-album/"
         },
         {
             "author": "Joe Price",
-            "desc": "Early projections for some of the biggest albums of the year show that Kendrick Lamar and Harry Styles are set to make huge debuts with their new projects.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/lhksddgqx24imoxj0ei5/kendrick-lamar.jpg",
-            "title": "Here Are the New First Week Projections for Kendrick, Post Malone, Jack Harlow, and Harry Styles' Upcoming Albums",
-            "url": "https://www.complex.com/music/kendrick-lamar-post-malone-jack-harlow-harry-styles-first-week-album-projections"
-        },
-        {
-            "author": "Alex Nino Gheciu",
-            "desc": "Ottawa-based rapper SVDVM, who went viral in 2017 for his song \"Auston Matthews,\" has released a new song dedicated to Matthews in time for the playoffs.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/awxdjdxc9bhoggljolnm/svdvm.jpg",
-            "title": "Rapper Who Went Viral for Auston Matthews Song Drops New Auston Matthews Song",
-            "url": "https://www.complex.com/sports/svdvm-auston-matthews-ii"
+            "desc": "On the latest episode of Talib Kweli's 'People's Party,' Will.i.am chimed in on the lyricist's back-and-forth with Kanye West and offered up a theory.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/ieglw2nqswiewsn0mmip/will-i-am-kweli.jpg",
+            "title": "Will.i.am Tells Talib Kweli His Theory on Kanye Admitting to Using the Black Star Rapper on \"Get Em High\"",
+            "url": "https://www.complex.com/music/will-i-am-tells-talib-kweli-theory-kanye-admitting-using-rapper-on-get-em-high"
         }
     ],
     "pop": [
+        {
+            "author": "Brad Callas",
+            "desc": "Nine years after Paul Walker died in a single-car collision at age 40, the 'Fast &amp; Furious' star's brother is warning people about the dangers of street racing.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/txaelyq98xihmm8kbnki/paul-walker-psa-street-racing.jpg",
+            "title": "Paul Walker's Brother Warns That the Dangers of Street Racing Are 'Not Worth the Risk' in New PSA Video",
+            "url": "https://www.complex.com/pop-culture/paul-walker-brother-warns-dangers-street-racing-new-psa-video"
+        },
+        {
+            "author": "Brenton Blanchet",
+            "desc": "Posey appeared on the TLC program at least twice starting in 2012, and her mother said in a 2016 episode that she began to do pageants at age 3.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/ofvy6i07jzu25vnzkvwp/kailia.jpg",
+            "title": "Kailia Posey, 'Toddlers & Tiaras' Star and Face of Popular Meme, Has Died at Age 16",
+            "url": "https://www.complex.com/pop-culture/kailia-posey-toddlers-tiaras-star-meme-dead-at-16"
+        },
+        {
+            "author": "Karla Rodriguez",
+            "desc": "Anthony Ramos chatted with Complex ahead of his first Met Gala and talked about working with Tommy Hilfiger and manifesting his dream roles.",
+            "img_url": "https://images.complex.com/images/c_crop,x_15,y_190/c_limit/w_1920/xtm12jkks9dnegqqwrpk/anthony-ramos-met-gala-interview.jpg",
+            "title": "Anthony Ramos Talks Attending His First Met Gala, Working with Tommy Hilfiger and Landing His Dream Roles",
+            "url": "https://www.complex.com/pop-culture/anthony-ramos-met-gala-interview/"
+        },
+        {
+            "author": "Joe Price",
+            "desc": "Viola Davis is reportedly in talks to reprise her 'Suicide Squad' and 'Peacemaker' role of Amanda Waller in her own spinoff series at HBO Max.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/qy26oi2jvytszg4eielw/viola-davis-may-2022.jpg",
+            "title": "Viola Davis in Talks to Reprise 'Suicide Squad' Role in 'Peacemaker' Spinoff Series",
+            "url": "https://www.complex.com/pop-culture/viola-davis-in-talks-reprise-amanda-waller-role-peacemaker-suicide-squad-spinoff-series-hbo"
+        },
+        {
+            "author": "Brenton Blanchet",
+            "desc": "The trailer teases \"the true untold story\" of the Al, who has been crafting parody tracks for decades, as the character promises he's \"full of surprises.\"",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/cai3iyvl1sgkffpdzuhj/daniel-radcliffe.jpg",
+            "title": "Daniel Radcliffe Stars in First Trailer for Weird Al Yankovic Biopic",
+            "url": "https://www.complex.com/pop-culture/daniel-radcliffe-trailer-weird-al-yankovic-biopic"
+        },
         {
             "author": "Trace William Cowen",
             "desc": "Benedict is back for more multiverse-complicated strangeness, this time with the beloved Sam Raimi in the director's chair. Here's what people are saying.",
@@ -243,41 +285,6 @@
             "img_url": "https://images.complex.com/images/c_limit/w_1920/n9hqvkxaoxolwg0lzsh4/jackass-tv-show.jpg",
             "title": "'Jackass' Returning as New TV Show on Paramount+",
             "url": "https://www.complex.com/pop-culture/jackass-returning-new-tv-show-paramount-plus"
-        },
-        {
-            "author": "Trace William Cowen",
-            "desc": "The original had \"Danger Zone\" and a number of other mega-memorable songs on its soundtrack. For the sequel, Cruise and company enlisted Gaga and BloodPop.",
-            "img_url": "https://images.complex.com/images/c_crop,x_19,y_275/c_limit/w_1920/blk42uyqcsxutjbe3ytq/gaga-gun.jpg",
-            "title": "Listen to Lady Gaga's 'Top Gun: Maverick' Song \"Hold My Hand\"",
-            "url": "https://www.complex.com/music/lady-gaga-top-gun-maverick-hold-my-hand-stream"
-        },
-        {
-            "author": "Jose Martinez",
-            "desc": "Blac Chyna will not receive any monetary damages after the jury came to a decision in favor of Rob Kardashian and his family in her defamation suit. ",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/t1hbruwrvpx9jkbk2b6b/blac-chyna-trial.jpg",
-            "title": "Kardashian-Jenners Win Defamation Trial, Blac Chyna Will Not Receive Any Damages ",
-            "url": "https://www.complex.com/pop-culture/kardashian-jenners-win-blac-chyna-defamation-lawsuit-no-damages"
-        },
-        {
-            "author": "Joe Price",
-            "desc": "On 'Divorce Court' a man admitted he didn't return his fiancee's car at the agreed-upon time because he had a \"rare\" chance to play basketball with OMB Peezy.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/emrmwtrubfk4a6it2b16/divorce-court.jpg",
-            "title": "Man Admits on 'Divorce Court' He Didn't Return Fiancee's Car So He Could Shoot Hoops With OMB Peezy, Rapper Reacts",
-            "url": "https://www.complex.com/music/man-divorce-court-didnt-return-fiancee-car-play-basketball-with-omb-peezy-reacts"
-        },
-        {
-            "author": "Brenton Blanchet",
-            "desc": "The petition, aimed at DC and Warner Bros., was launched in 2020 and has seen an increase in interest amid Johnny Depp's defamation case against Amber Heard",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/ll1grwnhyqm4jtxdjafr/heard.jpg",
-            "title": "Petition to Remove Amber Heard from 'Aquaman' Sequel Passes 3 Million Signatures Amid Johnny Depp Trial",
-            "url": "https://www.complex.com/pop-culture/amber-heard-remove-aquaman-sequel-petition"
-        },
-        {
-            "author": "Brad Callas",
-            "desc": "50 Cent took to Instagram to reveal he's taking his series 'A Moment in Time: The Massacre' to another network. It was previously set for Starz.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/xi7b2grwmcmvt2rg7eju/50-cent-starz-massacre.jpg",
-            "title": "50 Cent Pulls 'The Massacre' Series From Starz Because Working With Network Is a 'Waste of Time and Money'",
-            "url": "https://www.complex.com/pop-culture/50-cent-pulling-the-massacre-series-from-starz-find-new-network"
         }
     ],
     "sneakers": [
@@ -427,6 +434,13 @@
     "style": [
         {
             "author": "",
+            "desc": "Carti has been revealed as a founding partner in the cocktail brand Thomas Ashbourne Craft Spirits. Sadly, his signature drink isn't named Vampscatto.",
+            "img_url": "https://images.complex.com/images/c_limit/w_1920/ddkt0qgnyf8ipciv8uxm/carti.jpg",
+            "title": "Playboi Carti Enters the Signature Drink Space With Launch of Pre-Made Hardscatto Cocktail",
+            "url": "https://www.complex.com/style/playboi-carti-enters-signature-drink-space-with-launch-of-pre-made-hardscatto-cocktail"
+        },
+        {
+            "author": "",
             "desc": "Comprising just three pieces, including two varsity jackets and a handmade rug, the forthcoming range features some of the label's best pieces to date.",
             "img_url": "https://images.complex.com/images/c_limit/w_1920/e0ybchgsxhndufotzlsa/aamil-collection-lead.jpg",
             "title": "Emerging Streetwear Brand AAMIL Launches 'Trust Over Love' Capsule ",
@@ -487,13 +501,6 @@
             "img_url": "https://images.complex.com/images/c_limit/w_1920/lwivqzqbxv2hcjr6kdwf/zaralead.jpg",
             "title": "Khloe Kardashian's Good American and Zara to Launch Collaborative Denim Collection",
             "url": "https://www.complex.com/style/khloe-kardashian-good-american-and-zara-launch-collaborative-denim-collection"
-        },
-        {
-            "author": "",
-            "desc": "Offset took to social media on Tuesday to unveil a tattoo he got to pay tribute to Virgil Abloh. The late designer passed away on November 28, 2021.",
-            "img_url": "https://images.complex.com/images/c_limit/w_1920/oqm1jkjmst8fo3ljagsu/offset-tat-virgil.jpg",
-            "title": "Offset Pays Tribute to Virgil Abloh by Getting Tattoo of the Late Designer ",
-            "url": "https://www.complex.com/style/offset-pays-tribute-virgil-abloh-tattoo"
         }
     ]
 }

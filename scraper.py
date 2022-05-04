@@ -93,8 +93,8 @@ def main():
   for key in sites:
     data_to_json[key] = complex_scrape(sites[key])
 
-  with open("data/articles/complex_scrape.json", 'w') as w:
+  with open("react_env/assets/articles/complex_scrape.json", 'w') as w:
     json.dump(data_to_json, w, indent=4, sort_keys=True)
 
 if __name__ == "__main__":
-  main() 
+  main()
