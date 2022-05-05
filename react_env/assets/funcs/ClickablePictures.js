@@ -15,6 +15,7 @@ export function FeaturedPictureButton({ target, img_url, article_params }) {
         >
             <View style={{flexDirection: 'row'}}>
                 <Image 
+                    resizeMethod='resize'
                     style={styles.featured_img} 
                     source={{uri: img_url, method: 'GET'}}
                 />

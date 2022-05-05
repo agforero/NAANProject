@@ -21,7 +21,7 @@ function ClickableTitle({ target, desc }) {
     )
 }
 
-function Group({subd, title, info, members, members_online}) {
+export function Group({subd, title, info, members, members_online}) {
     return (
         <View style={{flexDirection: 'column'}}>
             <View style={styles.subd_banner}>
@@ -48,9 +48,9 @@ function Group({subd, title, info, members, members_online}) {
     )
 }
 
-class LinksHome extends Component {
+class LinksExplore extends Component {
     disp() {
-        const groups_ls = groups.int.map((group) =>
+        const groups_ls = groups.exp.map((group) =>
             <Group
                 subd={group.subdivision}
                 title={group.group_name}
@@ -67,13 +67,13 @@ class LinksHome extends Component {
                     <ScrollView>
                         <View style={{flexDirection: 'row'}}>
                             <View style={{flex: 1}}>
-                                <Central_White
+                                <Central_Grey
                                     target={"LinksHome"}
                                     desc={"FOR YOU"}
                                 />
                             </View>
                             <View style={{flex: 1}}>
-                                <Central_Grey
+                                <Central_White
                                     target={"LinksExplore"}
                                     desc={"EXPLORE"}
                                 />
@@ -82,21 +82,21 @@ class LinksHome extends Component {
                         <View style={{flexDirection: 'column'}}>
                             <View style={styles.subd_banner}>
                                 <Text style={styles.subd}>
-                                    Complex {groups.int_feature.subdivision}
+                                    Complex {groups.exp_feature.subdivision}
                                 </Text>
                             </View>
                             <ClickableTitle
-                                desc={groups.int_feature.group_name}
+                                desc={groups.exp_feature.group_name}
                                 target={"LinksExplore"}
                             />
                             <View style={styles.info_banner}>
                                 <Text style={styles.info}>
-                                    {groups.int_feature.description}
+                                    {groups.exp_feature.description}
                                 </Text>
                                 <Text style={styles.members_total}>
-                                    {groups.int_feature.members} members
+                                    {groups.exp_feature.members} members
                                     <Text style={styles.members_bullet}> • </Text>
-                                    <Text style={styles.members_online}>{groups.int_feature.members_online} online</Text>
+                                    <Text style={styles.members_online}>{groups.exp_feature.members_online} online</Text>
                                 </Text>
                             </View>
                         </View>
@@ -190,4 +190,4 @@ const styles = StyleSheet.create({
     }
 });
 
-export default LinksHome;
+export default LinksExplore;

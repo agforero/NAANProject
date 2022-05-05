@@ -6,7 +6,7 @@ import { GoToButton_NoArrow } from '../assets/funcs/NavButtons';
 import { useNavigation } from '@react-navigation/native';
 import { n_colors } from '../styles/Colors';
 import Arrow from 'react-native-arrow'
-let articles = require('../assets/articles/int_complex_scrape.json');
+let articles = require('../assets/articles/exp_complex_scrape.json');
 
 function BackArrow({target}) {
     const navigation = useNavigation();
@@ -21,25 +21,27 @@ function BackArrow({target}) {
     );
 }
 
-class FeaturedArticlePage_Central extends Component {
+class FeaturedArticlePage_Links extends Component {
     disp() {
         const loadInBrowser = () => {
-            Linking.openURL(articles.int_featured.url).catch(err => console.error("Couldn't load page", err));
+            Linking.openURL(articles.exp_featured.url).catch(err => console.error("Couldn't load page", err));
         };
         
         return (
             <View style={styles.disp}>
                 <ScrollView>
                     <View>
-                        <BackArrow target={"CentralHome"}/>
-                        <Text style={styles.subd}>COMPLEX {articles.int_featured.subdivision}</Text>
-                        <Text style={styles.title}>{articles.int_featured.title}</Text>
+                        <BackArrow target={"CentralExplore"}/>
+                        <Text style={styles.subd}>COMPLEX {articles.exp_featured.subdivision}</Text>
+                        <Text style={styles.title}>{articles.exp_featured.title}</Text>
                         <Image
+                            resizeMethod='resize'
                             style={styles.img}
-                            source={{uri: articles.int_featured.img_url, method: 'GET'}}
+                            source={{uri: articles.exp_featured.img_url, method: 'GET'}}
                         />
+                        <Text style={styles.author}>by {articles.exp_featured.author}</Text>
                         <Text style={styles.body}>
-                            {articles.int_featured.desc}
+                            {articles.exp_featured.desc}
                             <Text 
                                 style={styles.read_more}
                                 onPress={loadInBrowser}
@@ -94,6 +96,13 @@ const styles = StyleSheet.create({
         borderColor: 'white',
         marginTop: 10
     },
+    author: {
+        fontFamily: 'serif',
+        fontSize: 16,
+        color: "#bbbbbb",
+        fontStyle: 'italic',
+        marginTop: 5
+    },
     body: {
         fontFamily: 'serif',
         fontSize: 18,
@@ -109,4 +118,4 @@ const styles = StyleSheet.create({
     }
 });
 
-export default FeaturedArticlePage_Central;
+export default FeaturedArticlePage_Links;

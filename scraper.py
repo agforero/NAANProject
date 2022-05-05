@@ -3,6 +3,11 @@ from unidecode import unidecode
 import json, requests, random
 from bs4 import BeautifulSoup
 
+"""
+This program scrapes the RSS feed of Complex to ascertain
+the different assets needed to display articles in the app.
+"""
+
 def complexify(link):
   if link[0] == '/':
     return "https://www.complex.com" + link
@@ -54,15 +59,15 @@ def complex_scrape(original_page, subdivision):
   for title in titles[2:]:
     articles.append({"title": unidecode(title.text)})
 
-  # finding authors (Complex Style doesn't have this for some reason)
-  if original_page != "http://assets.complex.com/feeds/channels/style.xml":
+  # finding authors (account for articles w/o an author)
+  try:
     authors = soup.find_all("dc:creator")
     for i, author in enumerate(authors):
       articles[i]["author"] = unidecode(author.text)
 
-  else:
+  except IndexError:
     for i in range(len(articles)):
-      articles[i]["author"] = ""
+      articles[i]["author"] = "Complex"
 
   # finding descriptions
   descs = soup.find_all("description")

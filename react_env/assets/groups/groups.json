@@ -1,0 +1,48 @@
+{
+    "exp": [
+        {
+            "description": "This is a dummy group for testing purposes.",
+            "group_name": "Dummy Group 1",
+            "members": "32",
+            "members_online": 26,
+            "subdivision": "sports"
+        },
+        {
+            "description": "This is the third dummy group for testing purposes.",
+            "group_name": "Dummy Group 3",
+            "members": "38",
+            "members_online": 21,
+            "subdivision": "pop"
+        },
+        {
+            "description": "This is the fourth dummy group. Team NAAN forever :)",
+            "group_name": "Dummy Group 4",
+            "members": "420",
+            "members_online": 69,
+            "subdivision": "life"
+        },
+        {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse magna velit, imperdiet vel enim eget, facilisis pulvinar elit. Suspendisse potenti. Nam et elementum metus. Quisque in mauris id massa eleifend faucibus ut at ligula. Maecenas at nisi ac dolor convallis fringilla. Sed feugiat varius imperdiet. Cras euismod luctus ex, at euismod velit ullamcorper eget. Sed pharetra erat nec ligula tincidunt aliquam. Sed porta placerat odio ultrices gravida. Nullam tristique dictum lacinia. Ut sed consectetur ante, eget gravida lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+            "group_name": "Dummy Group 6",
+            "members": "34",
+            "members_online": 21,
+            "subdivision": "life"
+        }
+    ],
+    "int": [
+        {
+            "description": "This is the second dummy group for testing purposes.",
+            "group_name": "Dummy Group 2",
+            "members": "17",
+            "members_online": 14,
+            "subdivision": "sneakers"
+        },
+        {
+            "description": "I bet you'd never guess which dummy group this is.",
+            "group_name": "Dummy Group 5",
+            "members": "46",
+            "members_online": 23,
+            "subdivision": "music"
+        }
+    ]
+}

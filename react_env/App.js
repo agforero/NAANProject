@@ -41,8 +41,9 @@ import PrefsSelect from './pages/PrefsSelect';
 import CentralHome from './pages/CentralHome';
 import CentralExplore from './pages/CentralExplore'
 import LinksHome from './pages/LinksHome';
-import FeaturedArticlePage_Central from './pages/FeaturedArticlePage_Central'
-import FeaturedArticlePage_Links from './pages/FeaturedArticlePage_Links'
+import LinksExplore from './pages/LinksExplore';
+import FeaturedArticlePage_Home from './pages/FeaturedArticlePage_Home'
+import FeaturedArticlePage_Explore from './pages/FeaturedArticlePage_Explore'
 import HamburgerCentral from './pages/HamburgerCentral'
 import HamburgerLinks from './pages/HamburgerLinks'
 
@@ -202,6 +203,14 @@ const App: () => Node = () => {
           }}
         />
         <Stack.Screen
+          name="LinksExplore"
+          component={LinksExplore}
+          options={{
+            headerShown: true,
+            headerTitle: (props) => <TopNav_Links {...props} />
+          }}
+        />
+        <Stack.Screen
           name="HamburgerCentral"
           component={HamburgerCentral}
           options={{
@@ -218,16 +227,16 @@ const App: () => Node = () => {
           }}
         />
         <Stack.Screen
-          name="FeaturedArticlePage_Central"
-          component={FeaturedArticlePage_Central}
+          name="FeaturedArticlePage_Home"
+          component={FeaturedArticlePage_Home}
           options={{
             headerShown: true,
             headerTitle: (props) => <TopNav_Central {...props} />
           }}
         />
         <Stack.Screen
-          name="FeaturedArticlePage_Links"
-          component={FeaturedArticlePage_Links}
+          name="FeaturedArticlePage_Explore"
+          component={FeaturedArticlePage_Explore}
           options={{
             headerShown: true,
             headerTitle: (props) => <TopNav_Central {...props} />

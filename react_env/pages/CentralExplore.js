@@ -17,7 +17,7 @@ function FeaturedArticle({ title, img_url, subd, featured }) {
             </View>
             <View>
                 <FeaturedPictureButton
-                    target={"FeaturedArticlePage_Links"}
+                    target={"FeaturedArticlePage_Explore"}
                     img_url={img_url}
                 />
             </View>
@@ -36,6 +36,7 @@ function BasicArticle({ title, img_url, subd }) {
             </View>
             <View>
                 <Image 
+                    resizeMethod='resize'
                     style={styles.basic_img}
                     source={{uri: img_url, method: 'GET'}}
                 />
@@ -47,8 +48,9 @@ function BasicArticle({ title, img_url, subd }) {
     );
 }
 
-function createGroups(arr, numGroups) {
-    const perGroup = Math.ceil(arr.length / numGroups);
+function createGroups(arr) {
+    const perGroup = 2;
+    const numGroups = Math.floor(arr.length / 2)
     return new Array(numGroups)
         .fill('')
         .map((_, i) => arr.slice(i * perGroup, (i + 1) * perGroup));
@@ -56,7 +58,7 @@ function createGroups(arr, numGroups) {
 
 class CentralHome extends Component {
     disp() {
-        const basicArticles = createGroups(articles.exp, 6).map(([art1, art2]) =>
+        const basicArticles = createGroups(articles.exp).map(([art1, art2]) =>
             <View style={styles.basic_view} key={art1.id}>
                 <View style={styles.basic_view_col_left} key={art1.id}>
                     <BasicArticle
