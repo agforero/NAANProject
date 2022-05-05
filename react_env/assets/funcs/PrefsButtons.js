@@ -10,9 +10,7 @@ export function PrefsButton({ label }) {
     const [toggleCheckBox, setToggleCheckBox] = useState(false);
     
     return (
-      <View style={{
-        flexDirection: 'row',
-      }}>
+      <View style={{flexDirection: 'row'}}>
         <View style={{flex: 1}}>
           <CheckBox
             style={styles.check}
@@ -22,6 +20,7 @@ export function PrefsButton({ label }) {
             onValueChange={(newValue) => setToggleCheckBox(newValue)}
           />
         </View>
+        
         <View style={{
           flex: 5,
           justifyContent: 'center'
@@ -36,14 +35,6 @@ const styles = StyleSheet.create({
     button: {
       alignItems: "center",
       backgroundColor: n_colors.black,
-      //height: 50,
-      //padding: 10       
-    },
-    button_debug: {
-      alignItems: "center",
-      backgroundColor: n_colors.black,
-      borderWidth: 1,
-      borderColor: n_colors.white   
     },
     label: {
       color: n_colors.white,

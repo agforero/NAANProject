@@ -1,6 +1,6 @@
 # this first library requires you to pip install unidecode
 from unidecode import unidecode
-import json, requests
+import json, requests, random
 from bs4 import BeautifulSoup
 
 def complexify(link):
@@ -35,10 +35,14 @@ def get_better_res(image_link):
 
   return good_link
 
-def custom_json_output(d):
-  pass
+def give_unique_id(d):
+  count = 0
+  for key in d:
+    for d_2 in d[key]:
+      d_2["id"] = f"{key}_{count}"
+      count += 1
 
-def complex_scrape(original_page):
+def complex_scrape(original_page, subdivision):
   url = original_page
   data = requests.get(url)
   soup = BeautifulSoup(data.text, "xml")
@@ -73,7 +77,12 @@ def complex_scrape(original_page):
   # finding links to pictures
   pics = soup.find_all("enclosure")
   for i, pic in enumerate(pics):
-    articles[i]["img_url"] = get_better_res(pic["url"])
+    #articles[i]["img_url"] = get_better_res(pic["url"])
+    articles[i]["img_url"] = pic["url"]
+
+  # adding what subdivision it came from
+  for i in range(len(articles)):
+    articles[i]["subdivision"] = subdivision
 
   return articles
 
@@ -88,13 +97,40 @@ def main():
       "sports":   base + "sports.xml",
       "life":     base + "life.xml"
   }
-
+  
+  # scraping all articles
   data_to_json = {}
   for key in sites:
-    data_to_json[key] = complex_scrape(sites[key])
+    data_to_json[key] = complex_scrape(sites[key], key)
+
+  give_unique_id(data_to_json)
 
   with open("react_env/assets/articles/complex_scrape.json", 'w') as w:
     json.dump(data_to_json, w, indent=4, sort_keys=True)
+
+  # scraping articles the prototype's user would find interesting (pooled)
+  int_data_to_json = {"int": []}
+  for int_key in ["music", "style", "sneakers"]:
+    int_data_to_json["int"] += data_to_json[int_key]
+
+  random.shuffle(int_data_to_json["int"])
+  give_unique_id(int_data_to_json)
+  int_data_to_json["int_featured"] = int_data_to_json["int"].pop()
+
+  with open("react_env/assets/articles/int_complex_scrape.json", 'w') as w:
+    json.dump(int_data_to_json, w, indent=4, sort_keys=True)
+
+  # scraping articles normally out of the user's interests (pooled)
+  exp_data_to_json = {"exp": []}
+  for exp_key in ["pop", "sports", "life"]:
+    exp_data_to_json["exp"] += data_to_json[exp_key]
+
+  random.shuffle(exp_data_to_json["exp"])
+  give_unique_id(exp_data_to_json)
+  exp_data_to_json["exp_featured"] = exp_data_to_json["exp"].pop()
+
+  with open("react_env/assets/articles/exp_complex_scrape.json", 'w') as w:
+    json.dump(exp_data_to_json, w, indent=4, sort_keys=True)
 
 if __name__ == "__main__":
   main()
