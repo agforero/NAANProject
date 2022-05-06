@@ -1,18 +1,27 @@
 {
     "life": [
         {
+            "author": "Joshua Espinoza",
+            "desc": "Researchers confirmed the virus was harbored in the genetically modified organ; however, it remains unclear if the virus caused the patient's death.",
+            "id": "life_60",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/vv85jmj9ccqjebqvmuiw/man-dies-pig-heart-transplant.jpg",
+            "subdivision": "life",
+            "title": "Researchers Found Animal Virus in Pig Heart Transplanted Into Man Who Later Died",
+            "url": "https://www.complex.com/life/man-who-died-after-pig-heart-transplant-reportedly-carrying-animal-virus"
+        },
+        {
             "author": "Brad Callas",
             "desc": "A man told investigators that he was making $2,000 a day selling marijuana from a vending machine attached to his Detroit home, federal agents said.",
-            "id": "life_60",
+            "id": "life_61",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/gkyn65jzbzpltp4890of/weed-vending-machine-attached-to-house.jpg",
             "subdivision": "life",
-            "title": "Man Who Had Marijuana Vending Machine Bolted to His House Earned $2,000 a Day for 4 Years",
+            "title": "Man Who Earned $2,000 a Day for 4 Years From Marijuana Vending Machine at House Arrested for Illegal Gun Possession",
             "url": "https://www.complex.com/life/man-had-marijuana-vending-machine-bolted-house-2000-a-day"
         },
         {
             "author": "Tara C. Mahadevan",
             "desc": "A brawl captured on footage between at least 30 students at a Tucson, Arizona high school ended in one parent and one student being arrested.",
-            "id": "life_61",
+            "id": "life_62",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/xrvxoa1hacbivbylielf/student-brawl.jpg",
             "subdivision": "life",
             "title": "Video Shows Wild Brawl at Tucson High School Involving at Least 30 Students and a Parent",
@@ -21,7 +30,7 @@
         {
             "author": "Sanj Patel",
             "desc": "Male, who was added to the NCA's most wanted list earlier this year, is charged with a series of offences including, conspiracy to supply class A drugs, money",
-            "id": "life_62",
+            "id": "life_63",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/g8lsoipor1cyil9mxfqu/uk-most-wanted-man.jpg",
             "subdivision": "life",
             "title": "Alex Male, One Of The UK's Most Wanted Men, Has Been Arrested",
@@ -30,7 +39,7 @@
         {
             "author": "Trace William Cowen",
             "desc": "Another day, another story about seized coke. This time, employees at a Nespresso facility in Switzerland discovered cocaine among a shipment of coffee beans.",
-            "id": "life_63",
+            "id": "life_64",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/fieqeyb0orqdrslplref/coke-coffee.jpg",
             "subdivision": "life",
             "title": "Half Ton of Cocaine Worth More Than $50 Million Found in Coffee Bean Delivery to Nespresso Plant",
@@ -39,7 +48,7 @@
         {
             "author": "Jose Martinez",
             "desc": "U.S. Customs and Border Protection seized 460 counterfeit Rolex watches, worth an estimated $10.1 million, in two shipments originating from Hong Kong.",
-            "id": "life_64",
+            "id": "life_65",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/jkl08xfhzat7kx6optj4/seized-counterfeit-rolex.jpg",
             "subdivision": "life",
             "title": "U.S. Customs Seize Hundreds of Fake Rolex Watches Worth $10.1 Million",
@@ -48,7 +57,7 @@
         {
             "author": "Jose Martinez",
             "desc": "A man aboard a United Airlines flight was arrested after he opened the emergency exit door and slid down the plane's wing after landing in Chicago.",
-            "id": "life_65",
+            "id": "life_66",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/t9fidpjnyevep5b572ic/united-passenger-emergency-exit.jpg",
             "subdivision": "life",
             "title": "Passenger on United Airlines Flight Arrested After Opening Emergency Door and Exiting Moving Plane",
@@ -57,7 +66,7 @@
         {
             "author": "Elisa Ammaturo",
             "desc": "Karina Gould, minister of families, said that if the Supreme Court overturns Roe v. Wade, American women will have access to abortions in Canada.",
-            "id": "life_66",
+            "id": "life_67",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/va91xb2z7bttwc2qzuyj/roe-v-wade.jpg",
             "subdivision": "life",
             "title": "American Women Can Come to Canada If They Need an Abortion, Minister Says",
@@ -66,7 +75,7 @@
         {
             "author": "Trace William Cowen",
             "desc": "The Georgia man in question, 34-year-old Taylor Grant, is said to have been at a party at his cousin's house at the time of the shooting incident. ",
-            "id": "life_67",
+            "id": "life_68",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/mrpcohfnit51oycopkc0/uno.jpg",
             "subdivision": "life",
             "title": "Man Found Guilty on Two Charges in Connection With UNO Game Shooting",
@@ -75,119 +84,155 @@
         {
             "author": "Elisa Ammaturo",
             "desc": "Last June, Philip Tsotsos' group of 16 friends won a $1-million Maxmillion prize on a Lotto Max ticket. He's now suing them for $70,000 plus interest.",
-            "id": "life_68",
+            "id": "life_69",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/wsjozzjhqxlzhrf8rx1s/lotto-max.jpg",
             "subdivision": "life",
             "title": "'Hurt' Windsor Man Sues Friends Who Left Him Out of $1M Lotto",
             "url": "https://www.complex.com/life/pizza-delivery-driver-sues-16-friends-who-wrongly-left-him-out-of-1m-lotto"
-        },
-        {
-            "author": "Joe Price",
-            "desc": "Virginia Lopez Severiano died after she was airlifted to a hospital over injuries she suffered after she got stuck in an industrial food mixer.",
-            "id": "life_69",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/i88roxqxlkziz5xzon11/virginia-lopez.jpg",
-            "subdivision": "life",
-            "title": "Woman Dies After Being Stuck in Bread Machine for an Hour",
-            "url": "https://www.complex.com/life/woman-dies-stuck-bread-machine"
         }
     ],
     "main": [
         {
-            "author": "Complex",
-            "desc": "A brawl captured on footage between at least 30 students at a Tucson, Arizona high school ended in one parent and one student being arrested.",
+            "author": "Tara C. Mahadevan",
+            "desc": "DJ Drama took to Twitter to address a fan who brought up his relationship with Drake, who collaborated with Jack Harlow on the song \"Churchill Downs.\"",
             "id": "main_0",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/ut72q05s6kdgq725yode/dj-drama.jpg",
+            "subdivision": "main",
+            "title": "DJ Drama Addresses 'Narrative' There's Issue Between Him and Drake After Fan Brings Up Jack Harlow Collaboration",
+            "url": "https://www.complex.com/music/dj-drama-no-issue-between-him-and-drake"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "Nearly four years after the release of his last full-length offering, Method Man returns with his new project 'Meth Lab Season 3: The Rehab.'",
+            "id": "main_1",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/resn1ldnozg8bezgtqvi/method-man.jpg",
+            "subdivision": "main",
+            "title": "Method Man Drops New Album 'Meth Lab Season 3: The Rehab' f/ Jadakiss, Redman, and More",
+            "url": "https://www.complex.com/music/method-man-meth-lab-season-3-the-rehab-album-stream"
+        },
+        {
+            "author": "Joshua Espinoza",
+            "desc": "Researchers confirmed the virus was harbored in the genetically modified organ; however, it remains unclear if the virus caused the patient's death.",
+            "id": "main_2",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/vv85jmj9ccqjebqvmuiw/man-dies-pig-heart-transplant.jpg",
+            "subdivision": "main",
+            "title": "Researchers Found Animal Virus in Pig Heart Transplanted Into Man Who Later Died",
+            "url": "https://www.complex.com/life/man-who-died-after-pig-heart-transplant-reportedly-carrying-animal-virus"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "Former Oklahoma defensive tackle Du'Vonta Lampkin has died at the age of 25. Dallas police found him with a fatal gun shot wound on Thursday night.",
+            "id": "main_3",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/qfj1pbzwy9lxuk8uthm3/duvonta-lampkin-fatally-shot.jpg",
+            "subdivision": "main",
+            "title": "Former Oklahoma Sooners Defensive Tackle Du'Vonta Lampkin Dies at 25 After Suffering Gunshot Wound",
+            "url": "https://www.complex.com/sports/duvonta-lampkin-dies-25-gunshot-wound"
+        },
+        {
+            "author": "Joe Price",
+            "desc": "On 'Drink Champs,' Pusha-T said that he's been banned from Canada after a 2018 Toronto concert that went down amid his beef with Drake ended in a brawl.",
+            "id": "main_4",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/qqkjbivht5hslhrkjrib/pusha-t.jpg",
+            "subdivision": "main",
+            "title": "Pusha-T Reveals He's Banned From Canada Following 2018 Show Brawl, Says Drake and Ye Don't Make Good Music Together",
+            "url": "https://www.complex.com/music/pusha-t-banned-from-canada-due-to-2018-toronto-show-brawl-amid-drake-beef-drink-champs"
+        },
+        {
+            "author": "Tara C. Mahadevan",
+            "desc": "Right before Mother's Day, Morray shares the song \"Momma's Love\" as a tribute to his mother. The song arrives in advance of his debut album, set for this year.",
+            "id": "main_5",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/hctnrkhwe6um3jyuyrxu/morray.jpg",
+            "subdivision": "main",
+            "title": "Morray Honors His Mother With New Song \"Momma's Love\"",
+            "url": "https://www.complex.com/music/morray-mommas-love-song-stream"
+        },
+        {
+            "author": "Jessica McKinney",
+            "desc": "Complex's best new music this week includes songs from ASAP Rocky, Jack Harlow, Doja Cat, Duke Deuce, SiR, Mike Dimes, IDK, Bad Bunny, and many more. ",
+            "id": "main_6",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/z5aakrtgre8whh4opqv1/best-new-music-jack-bad-bunny-rocky.jpg",
+            "subdivision": "main",
+            "title": "Best New Music This Week: ASAP Rocky, Jack Harlow, Bad Bunny, and More ",
+            "url": "https://www.complex.com/music/best-new-music-this-week-may-6/"
+        },
+        {
+            "author": "Brad Callas",
+            "desc": "A man told investigators that he was making $2,000 a day selling marijuana from a vending machine attached to his Detroit home, federal agents said.",
+            "id": "main_7",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/gkyn65jzbzpltp4890of/weed-vending-machine-attached-to-house.jpg",
+            "subdivision": "main",
+            "title": "Man Who Earned $2,000 a Day for 4 Years From Marijuana Vending Machine at House Arrested for Illegal Gun Possession",
+            "url": "https://www.complex.com/life/man-had-marijuana-vending-machine-bolted-house-2000-a-day"
+        },
+        {
+            "author": "Tara C. Mahadevan",
+            "desc": "A brawl captured on footage between at least 30 students at a Tucson, Arizona high school ended in one parent and one student being arrested.",
+            "id": "main_8",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/xrvxoa1hacbivbylielf/student-brawl.jpg",
             "subdivision": "main",
             "title": "Video Shows Wild Brawl at Tucson High School Involving at Least 30 Students and a Parent",
             "url": "https://www.complex.com/life/video-brawl-breaks-out-30-students-tucson-arizona"
         },
         {
-            "author": "Complex",
+            "author": "Joe Price",
             "desc": "YouTuber SteveWillDoIt of Nelk fame apologized to Lil Durk's lookalike Perkioo over that bizarre 6ix9ine meeting and gifted him with cash and jewelry. ",
-            "id": "main_1",
+            "id": "main_9",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/pfopvq9acmjsaxsg3tne/lil-durk-and-perkioo.jpg",
             "subdivision": "main",
             "title": "SteveWillDoIt Apologizes to Lil Durk Lookalike Perkioo for 6ix9ine Incident, Gives Him Cash and Cartier Bracelets",
             "url": "https://www.complex.com/music/stevewilldoit-lil-durk-lookalike-apology-6ix9ine-meeting-gives-him-cash"
-        },
-        {
-            "author": "Complex",
-            "desc": "Drake let loose a long, introspective verse on Jack Harlow's new album, giving us updates on his life (and subliminals for others). Here's what we learned.",
-            "id": "main_2",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/c4rtmy6vdf0c7q03ysph/drake-getty-amy-sussman.jpg",
-            "subdivision": "main",
-            "title": "Drake Tells Us a Lot About Himself on Jack Harlow's \"Churchill Downs\"",
-            "url": "https://www.complex.com/music/drake-churchill-downs-verse-analysis/"
-        },
-        {
-            "author": "Complex",
-            "desc": "Shy Glizzy and EST Gee join forces to deliver the DC rapper's new song \"Borderline,\" which also comes with cinematic visuals that features a heist.",
-            "id": "main_3",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/yjcsf5z4uxiqy9mqf6cb/borderline-shy-glizzy-est-gee.jpg",
-            "subdivision": "main",
-            "title": "Shy Glizzy Connects With EST Gee in Video for New Song \"Borderline\"",
-            "url": "https://www.complex.com/music/shy-glizzy-est-gee-borderline-song-video"
-        },
-        {
-            "author": "Complex",
-            "desc": "Despite its name, the new single from the Drake-approved Mississauga artist is not about video games. \"Xbox\" is the lead single from Ram's next LP, 'SD2.'",
-            "id": "main_4",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/bchxu2fsqvxuidhkl7rg/ramriddlz.jpg",
-            "subdivision": "main",
-            "title": "Ramriddlz Drops \"Xbox,\" the Lead Single From His Next Album 'SD2'",
-            "url": "https://www.complex.com/music/ramriddlz-xbox"
-        },
-        {
-            "author": "Complex",
-            "desc": "Jack Harlow's new album 'Come Home the Kids Miss You' has arrived. What's the best song? Biggest skip? Here's our first impressions review of the album.",
-            "id": "main_5",
-            "img_url": "https://images.complex.com/images/c_crop,h_1075,w_1911,x_7,y_146/c_limit,h_1080,w_1920/th8qur7q7ssspo0tssy0/jack-harlow-first-listen-review.jpg",
-            "subdivision": "main",
-            "title": "First Impressions of Jack Harlow's New Album 'Come Home the Kids Miss You'",
-            "url": "https://www.complex.com/music/jack-harlow-come-home-the-kids-miss-you-first-impressions-review/"
-        },
-        {
-            "author": "Complex",
-            "desc": "Anticipation's been building ever since we got the first taste of the new tape when he released \"Blew\" with Rimzee way back in January last year.",
-            "id": "main_6",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/ovq3mpxx768i7qjsqooq/stardom-street-profit.jpg",
-            "subdivision": "main",
-            "title": "Stardom's 'Street Profit' Mixtape Is Here f/ K-Trap, Snap Capone, Ling Hussle & More",
-            "url": "https://www.complex.com/music/stardom-street-profit"
-        },
-        {
-            "author": "Complex",
-            "desc": "During an appearance on 'Jimmy Kimmel Live,' Hart addressed Dave Chappelle being tackled onstage and said that the attacker getting beat up \"needed to happen.\"",
-            "id": "main_7",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/bwjktdmzg5y0bgylj6kf/kevin-hart-dave-chappelle.jpg",
-            "subdivision": "main",
-            "title": "Kevin Hart on Why He Believes Dave Chappelle's Attacker Getting Beat Up 'Needed to Happen'",
-            "url": "https://www.complex.com/pop-culture/kevin-hart-addresses-dave-chappelle-attacker-getting-beat-up-needed-to-happen"
-        },
-        {
-            "author": "Complex",
-            "desc": "In a new 'Breakfast Club' interview, Jack Harlow talked about adding more bars to his verse on \"Churchill Downs\" after he heard Drake's contribution.",
-            "id": "main_8",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/zc1qbd3jqhbp7ntia7rc/jack-harlow.jpg",
-            "subdivision": "main",
-            "title": "Jack Harlow on Adding More Bars to His \"Churchill Downs\" Verse After Hearing Drake's, Explains Viral Vacation Video",
-            "url": "https://www.complex.com/music/jack-harlow-added-more-bars-after-hearing-drake-verse-churchill-downs"
-        },
-        {
-            "author": "Complex",
-            "desc": "From Cardi B and Offset's $200,000 chain for Wave to Pusha T's celebratory grills from Gabby Elan here are some of April's biggest celebrity jewelry purchases.",
-            "id": "main_9",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/z2jpum4ebvmn2igrxyor/biggest-celebrity-jewelry-purchases-april-2022.jpg",
-            "subdivision": "main",
-            "title": "Some of April's Biggest Jewelry Purchases from Pusha T, Offset, Megan Thee Stallion, and More",
-            "url": "https://www.complex.com/style/biggest-celebrity-jewelry-purchases-april-2022/"
         }
     ],
     "music": [
         {
             "author": "Complex",
-            "desc": "YouTuber SteveWillDoIt of Nelk fame apologized to Lil Durk's lookalike Perkioo over that bizarre 6ix9ine meeting and gifted him with cash and jewelry. ",
+            "desc": "DJ Drama took to Twitter to address a fan who brought up his relationship with Drake, who collaborated with Jack Harlow on the song \"Churchill Downs.\"",
             "id": "music_10",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/ut72q05s6kdgq725yode/dj-drama.jpg",
+            "subdivision": "music",
+            "title": "DJ Drama Addresses 'Narrative' There's Issue Between Him and Drake After Fan Brings Up Jack Harlow Collaboration",
+            "url": "https://www.complex.com/music/dj-drama-no-issue-between-him-and-drake"
+        },
+        {
+            "author": "Complex",
+            "desc": "Nearly four years after the release of his last full-length offering, Method Man returns with his new project 'Meth Lab Season 3: The Rehab.'",
+            "id": "music_11",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/resn1ldnozg8bezgtqvi/method-man.jpg",
+            "subdivision": "music",
+            "title": "Method Man Drops New Album 'Meth Lab Season 3: The Rehab' f/ Jadakiss, Redman, and More",
+            "url": "https://www.complex.com/music/method-man-meth-lab-season-3-the-rehab-album-stream"
+        },
+        {
+            "author": "Complex",
+            "desc": "On 'Drink Champs,' Pusha-T said that he's been banned from Canada after a 2018 Toronto concert that went down amid his beef with Drake ended in a brawl.",
+            "id": "music_12",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/qqkjbivht5hslhrkjrib/pusha-t.jpg",
+            "subdivision": "music",
+            "title": "Pusha-T Reveals He's Banned From Canada Following 2018 Show Brawl, Says Drake and Ye Don't Make Good Music Together",
+            "url": "https://www.complex.com/music/pusha-t-banned-from-canada-due-to-2018-toronto-show-brawl-amid-drake-beef-drink-champs"
+        },
+        {
+            "author": "Complex",
+            "desc": "Right before Mother's Day, Morray shares the song \"Momma's Love\" as a tribute to his mother. The song arrives in advance of his debut album, set for this year.",
+            "id": "music_13",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/hctnrkhwe6um3jyuyrxu/morray.jpg",
+            "subdivision": "music",
+            "title": "Morray Honors His Mother With New Song \"Momma's Love\"",
+            "url": "https://www.complex.com/music/morray-mommas-love-song-stream"
+        },
+        {
+            "author": "Complex",
+            "desc": "Complex's best new music this week includes songs from ASAP Rocky, Jack Harlow, Doja Cat, Duke Deuce, SiR, Mike Dimes, IDK, Bad Bunny, and many more. ",
+            "id": "music_14",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/z5aakrtgre8whh4opqv1/best-new-music-jack-bad-bunny-rocky.jpg",
+            "subdivision": "music",
+            "title": "Best New Music This Week: ASAP Rocky, Jack Harlow, Bad Bunny, and More ",
+            "url": "https://www.complex.com/music/best-new-music-this-week-may-6/"
+        },
+        {
+            "author": "Complex",
+            "desc": "YouTuber SteveWillDoIt of Nelk fame apologized to Lil Durk's lookalike Perkioo over that bizarre 6ix9ine meeting and gifted him with cash and jewelry. ",
+            "id": "music_15",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/pfopvq9acmjsaxsg3tne/lil-durk-and-perkioo.jpg",
             "subdivision": "music",
             "title": "SteveWillDoIt Apologizes to Lil Durk Lookalike Perkioo for 6ix9ine Incident, Gives Him Cash and Cartier Bracelets",
@@ -196,7 +241,7 @@
         {
             "author": "Complex",
             "desc": "Drake let loose a long, introspective verse on Jack Harlow's new album, giving us updates on his life (and subliminals for others). Here's what we learned.",
-            "id": "music_11",
+            "id": "music_16",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/c4rtmy6vdf0c7q03ysph/drake-getty-amy-sussman.jpg",
             "subdivision": "music",
             "title": "Drake Tells Us a Lot About Himself on Jack Harlow's \"Churchill Downs\"",
@@ -205,7 +250,7 @@
         {
             "author": "Complex",
             "desc": "Shy Glizzy and EST Gee join forces to deliver the DC rapper's new song \"Borderline,\" which also comes with cinematic visuals that features a heist.",
-            "id": "music_12",
+            "id": "music_17",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/yjcsf5z4uxiqy9mqf6cb/borderline-shy-glizzy-est-gee.jpg",
             "subdivision": "music",
             "title": "Shy Glizzy Connects With EST Gee in Video for New Song \"Borderline\"",
@@ -214,7 +259,7 @@
         {
             "author": "Complex",
             "desc": "Despite its name, the new single from the Drake-approved Mississauga artist is not about video games. \"Xbox\" is the lead single from Ram's next LP, 'SD2.'",
-            "id": "music_13",
+            "id": "music_18",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/bchxu2fsqvxuidhkl7rg/ramriddlz.jpg",
             "subdivision": "music",
             "title": "Ramriddlz Drops \"Xbox,\" the Lead Single From His Next Album 'SD2'",
@@ -223,56 +268,11 @@
         {
             "author": "Complex",
             "desc": "Jack Harlow's new album 'Come Home the Kids Miss You' has arrived. What's the best song? Biggest skip? Here's our first impressions review of the album.",
-            "id": "music_14",
+            "id": "music_19",
             "img_url": "https://images.complex.com/images/c_crop,h_1075,w_1911,x_7,y_146/c_limit,h_1080,w_1920/th8qur7q7ssspo0tssy0/jack-harlow-first-listen-review.jpg",
             "subdivision": "music",
             "title": "First Impressions of Jack Harlow's New Album 'Come Home the Kids Miss You'",
             "url": "https://www.complex.com/music/jack-harlow-come-home-the-kids-miss-you-first-impressions-review/"
-        },
-        {
-            "author": "Complex",
-            "desc": "Anticipation's been building ever since we got the first taste of the new tape when he released \"Blew\" with Rimzee way back in January last year.",
-            "id": "music_15",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/ovq3mpxx768i7qjsqooq/stardom-street-profit.jpg",
-            "subdivision": "music",
-            "title": "Stardom's 'Street Profit' Mixtape Is Here f/ K-Trap, Snap Capone, Ling Hussle & More",
-            "url": "https://www.complex.com/music/stardom-street-profit"
-        },
-        {
-            "author": "Complex",
-            "desc": "In a new 'Breakfast Club' interview, Jack Harlow talked about adding more bars to his verse on \"Churchill Downs\" after he heard Drake's contribution.",
-            "id": "music_16",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/zc1qbd3jqhbp7ntia7rc/jack-harlow.jpg",
-            "subdivision": "music",
-            "title": "Jack Harlow on Adding More Bars to His \"Churchill Downs\" Verse After Hearing Drake's, Explains Viral Vacation Video",
-            "url": "https://www.complex.com/music/jack-harlow-added-more-bars-after-hearing-drake-verse-churchill-downs"
-        },
-        {
-            "author": "Complex",
-            "desc": "Drake and Future paid homage to the former's hometown by filming at one of its most iconic and notable locations, Casa Loma, for the \"Wait for U\" music video.",
-            "id": "music_17",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/zhur6kmz13m1yti2wbiq/drake-future.jpg",
-            "subdivision": "music",
-            "title": "Drake and Future's \"Wait for U\" Music Video Was Filmed at Toronto's Casa Loma",
-            "url": "https://www.complex.com/music/drake-future-casa-loma"
-        },
-        {
-            "author": "Complex",
-            "desc": "In an extended statement, Carnage thanked fans for their support throughout his career, noting these shows will serve as his journey's \"grand finale.\"",
-            "id": "music_18",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/anovvzrmon1ji5qfavsp/carnage-press-photo-2022.jpg",
-            "subdivision": "music",
-            "title": "Carnage Announces Retirement, Shares Final Show Dates: 'Carnage Has Been Put to Rest and Is Officially Dead'",
-            "url": "https://www.complex.com/music/carnage-shares-final-tour-dates-announces-retirement"
-        },
-        {
-            "author": "Complex",
-            "desc": "Puffy L'z and SAFE have shared their track \"Firm,\" along with its music video. Both hailing from Regent Park's Halal Gang, the collab comes naturally.",
-            "id": "music_19",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/p0mupee0coa3dd2zdi7j/puffy-safe.jpg",
-            "subdivision": "music",
-            "title": "Puffy L'z and SAFE Link Up on \"Firm\"",
-            "url": "https://www.complex.com/music/puffy-safe-firm"
         }
     ],
     "pop": [
@@ -462,8 +462,17 @@
     "sports": [
         {
             "author": "Complex",
-            "desc": "During an appearance on the 'Cigar Talk' podcast, Antonio Brown shared his thoughts on Colin Kaepernick's ongoing attempt at an NFL comeback.",
+            "desc": "Former Oklahoma defensive tackle Du'Vonta Lampkin has died at the age of 25. Dallas police found him with a fatal gun shot wound on Thursday night.",
             "id": "sports_50",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/qfj1pbzwy9lxuk8uthm3/duvonta-lampkin-fatally-shot.jpg",
+            "subdivision": "sports",
+            "title": "Former Oklahoma Sooners Defensive Tackle Du'Vonta Lampkin Dies at 25 After Suffering Gunshot Wound",
+            "url": "https://www.complex.com/sports/duvonta-lampkin-dies-25-gunshot-wound"
+        },
+        {
+            "author": "Complex",
+            "desc": "During an appearance on the 'Cigar Talk' podcast, Antonio Brown shared his thoughts on Colin Kaepernick's ongoing attempt at an NFL comeback.",
+            "id": "sports_51",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/yq3h9ukk46hvgloqgdo7/antonio-brown-rips-colin-kaepernick.jpg",
             "subdivision": "sports",
             "title": "Antonio Brown Calls Colin Kaepernick 'Trash,' Says 'We Don't See Him in the Hood'",
@@ -472,7 +481,7 @@
         {
             "author": "Complex",
             "desc": "With the NBA playoffs well underway, we put together bold predictions based off what has transpired so far. Will Chris Paul get his ring? Will the Bucks repeat?",
-            "id": "sports_51",
+            "id": "sports_52",
             "img_url": "https://images.complex.com/images/c_crop,h_1080,w_1920,x_0,y_16/c_limit,h_1080,w_1920/myv0d2hm3oa3njwecj0m/james-harden.jpg",
             "subdivision": "sports",
             "title": "7 Bold Predictions for the 2022 NBA Playoffs ",
@@ -481,7 +490,7 @@
         {
             "author": "Complex",
             "desc": "Toronto has never been a sexy destination for NBA players, but to the next generation of talent, the Raptors are becoming an enviable franchise to play for.",
-            "id": "sports_52",
+            "id": "sports_53",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/wa181bmp6fenxcz7eitb/raptors.jpg",
             "subdivision": "sports",
             "title": " It's Only a Matter of Time Before the Raptors Become a Free Agent Destination",
@@ -490,7 +499,7 @@
         {
             "author": "Complex",
             "desc": "In February, two-time Olympic gold medalist and Phoenix Mercury star was reported to have been arrested at an airport in Moscow. Here's what you need to know.",
-            "id": "sports_53",
+            "id": "sports_54",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/l8y5r3vbwpnhw9zoopgq/bg.jpg",
             "subdivision": "sports",
             "title": "Brittney Griner's Wrongful Detainment in Russia: What You Need to Know",
@@ -499,7 +508,7 @@
         {
             "author": "Complex",
             "desc": "Warriors coach Steve Kerr was not happy with Dillon Brooks' flagrant 2 foul on Gary Payton II. It all went down in the first quarter of Game 2.",
-            "id": "sports_54",
+            "id": "sports_55",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/hhisanvmgptjutn6tz1a/steve-kerr-dillon-brooks-broke-code.jpg",
             "subdivision": "sports",
             "title": "Dillon Brooks Suspended for Game 3 After Flagrant 2 Foul on Gary Payton II (UPDATE)",
@@ -508,7 +517,7 @@
         {
             "author": "Complex",
             "desc": "We spoke to Bartlett about the need for a basketball showcase like GLOBL JAM in Canada, gender equity in sports, the future of Canadian hoops, and more. ",
-            "id": "sports_55",
+            "id": "sports_56",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/aatxytkj7iipsztggocq/charles-bediako.jpg",
             "subdivision": "sports",
             "title": "Canada Basketball CEO Michael Bartlett on GLOBL JAM, Gender Equity, and the Future of Canadian Hoops",
@@ -517,7 +526,7 @@
         {
             "author": "Complex",
             "desc": "Ottawa-based rapper SVDVM, who went viral in 2017 for his song \"Auston Matthews,\" has released a new song dedicated to Matthews in time for the playoffs.",
-            "id": "sports_56",
+            "id": "sports_57",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/awxdjdxc9bhoggljolnm/svdvm.jpg",
             "subdivision": "sports",
             "title": "Rapper Who Went Viral for Auston Matthews Song Drops New Auston Matthews Song",
@@ -526,7 +535,7 @@
         {
             "author": "Complex",
             "desc": "DeAndre Hopkins was suspended six games for violating the NFL's Performance Enhancing Drug policy, according to a report from ESPN's Adam Schefter.",
-            "id": "sports_57",
+            "id": "sports_58",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/no1qudgjujdeqpfyg9zp/deandre-hopkins-suspended-drugs.jpg",
             "subdivision": "sports",
             "title": "DeAndre Hopkins Suspended 6 Games for Violating NFL's Performance Enhancing Drug Policy",
@@ -535,20 +544,11 @@
         {
             "author": "Complex",
             "desc": "Just days after the Utah Jazz were eliminated by the Mavericks, a report surfaced claiming that Gobert had reached a \"him or me\" point with Donovan Mitchell",
-            "id": "sports_58",
+            "id": "sports_59",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/hgi1ht3iucfrujuo5otv/rudy-gobert-donovan-mitchell.jpg",
             "subdivision": "sports",
             "title": "Rudy Gobert Appears to Address Rumor He Has 'Him or Me' Issue With Donovan Mitchell and Will Demand Trade",
             "url": "https://www.complex.com/sports/rudy-gobert-appears-to-address-him-or-me-donovan-mitchell-rumor"
-        },
-        {
-            "author": "Complex",
-            "desc": "After running onto the field in the bottom of the sixth inning, two 11-year-old boys were tackled by security at a Toronto Blue Jays gave vs the Houston Astros.",
-            "id": "sports_59",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/mt2m47hkj0shweqpgtgc/kid-tackled-at-jays-game.jpg",
-            "subdivision": "sports",
-            "title": "Two Kids Were Tackled by Security After Jetting Onto Field During the Blue Jays Game",
-            "url": "https://www.complex.com/sports/two-kids-tackled-at-blue-jays-game"
         }
     ],
     "style": [
