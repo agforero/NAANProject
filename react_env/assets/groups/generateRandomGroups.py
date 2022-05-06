@@ -37,12 +37,20 @@ def main():
                     "members": str(members),
                     "members_online": str(members - random.randint(3, 13)),
                     "subdivision": random.choice(cats[i]),
-                    "id": str((i * 50) + j)
+                    "id": str((i * 50) + j),
+                    "lorem": group_name.capitalize()
                 }
             )
 
     groups_dict["int_feature"] = groups_dict["int"].pop()
+    groups_dict["int_feature"]["subdivision"] = "sneakers 👟"
+    groups_dict["int_feature"]["members"] = str(int(groups_dict["int_feature"]["members"]) + 10)
+    groups_dict["int_feature"]["members_online"] = str(int(groups_dict["int_feature"]["members"]) - 10)
+
     groups_dict["exp_feature"] = groups_dict["exp"].pop()
+    groups_dict["exp_feature"]["subdivision"] = "sports 🏀"
+    groups_dict["exp_feature"]["members"] = str(int(groups_dict["exp_feature"]["members"]) + 10)
+    groups_dict["exp_feature"]["members_online"] = str(int(groups_dict["exp_feature"]["members"]) - 10)
 
     with open("groups_random.json", 'w') as w:
         json.dump(groups_dict, w, indent=4, sort_keys=True)

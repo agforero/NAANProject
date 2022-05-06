@@ -87,7 +87,7 @@ class LinksHome extends Component {
                             </View>
                             <ClickableTitle
                                 desc={groups.int_feature.group_name}
-                                target={"LinksExplore"}
+                                target={"FeaturedLink_Home"}
                             />
                             <View style={styles.info_banner}>
                                 <Text style={styles.info}>
@@ -120,6 +120,7 @@ const styles = StyleSheet.create({
 	main: {
 		flexDirection: 'column',
 		flex: 1,
+        backgroundColor: 'black'
 	},
 	disp: {
 		flex: 1,

@@ -12,6 +12,7 @@ pip install lxml
 These are things that keep this hi-fi prototype from just being a fully-functional model for a Complex App.
 
 * Transitions all use the same animation.
+* The prototype's name, username and password are `Agustin Forero`, `agforero` and `NAANForever` respectively. Entry fields in second screen don't have `onChangeText()`s that save custom info.
 * The prototype assumes the user is interested in Complex Music, Sneakers and Style. The checkboxes at the beginning don't change this.
 * Props always pass as `undefined` when using `react-navigation`, which prevents the app from porting dynamic information into templates (e.g., passing an object containing basic information on an article into a pretty-looking article page). To display what the page would look like despite this, the featured article on both **FOR YOU** and **EXPLORE** has its own page, generated from `.json` data received from `scraper.py`.
 * Images look a little goofy when stretched sometimes.

@@ -1,12 +1,27 @@
 /* eslint-disable prettier/prettier */
 import React from 'react';
 import { Component, useState, useRef } from 'react';
-import { Text, View, StyleSheet, Image, ScrollView, TextInput } from 'react-native';
+import { Text, View, StyleSheet, Image, ScrollView, TextInput, TouchableOpacity } from 'react-native';
 import GoToButton_Prefs_New, { GoToButton_Prefs } from '../assets/funcs/NavButtons';
 import { PrefsButton } from '../assets/funcs/PrefsButtons';
 import { n_colors } from '../styles/Colors';
+import { useNavigation } from '@react-navigation/native';
+import Arrow from 'react-native-arrow'
 
-class PrefsSelect extends Component {
+function BackArrow({target}) {
+    const navigation = useNavigation();
+    return (
+        <TouchableOpacity onPress={() => navigation.navigate(target)}>
+            <Arrow 
+                style={styles.arrow}
+                size={25}
+                color={'white'}
+            />
+        </TouchableOpacity>
+    );
+}
+
+class ChangePassword extends Component {
     disp() {
         const depts = ["Music", "Pop Culture", "Style", "Sneakers", "Sports", "General News"]
         const buttons = depts.map((dept) =>
@@ -17,72 +32,38 @@ class PrefsSelect extends Component {
             <ScrollView>
                 <View style={styles.disp}>
                     <View style={styles.frame}>
-                        <Text style={styles.header}>First, let's build your profile.</Text>
-                            <Text style={styles.entry_header}>Profile Picture</Text>
-                            <View style={{
-                                borderColor: 'white',
-                                borderWidth: 2,
-                            }}>
-                                <Image
-                                    style={{
-                                        height: 310,
-                                        width: '100%',
-                                    }}
-                                    source={
-                                        require("../assets/imgs/const/best_dev.jpg")
-                                    }
-                                />
-                            </View>
-                            <Text style={styles.entry_header}>Name</Text>
+                        <BackArrow target={"HamburgerLinks"}/>
+                        <Text style={styles.header}>Change your password</Text>
+                            <Text style={styles.entry_header}>Old password</Text>
                             <View style={{
                                 borderColor: 'white',
                                 borderWidth: 2,
                             }}>
                                 <TextInput 
                                     style={styles.entry}
+                                    secureTextEntry={true}
                                 />
                             </View>
-                            <Text style={styles.entry_header}>Username</Text>
+                            <Text style={styles.entry_header}>New password</Text>
                             <View style={{
                                 borderColor: 'white',
                                 borderWidth: 2,
                             }}>
                                 <TextInput 
                                     style={styles.entry}
+                                    secureTextEntry={true}
                                 />
                             </View>
-                            <Text style={styles.entry_header}>Password</Text>
+                            <Text style={styles.entry_header}>Confirm new password</Text>
                             <View style={{
                                 borderColor: 'white',
                                 borderWidth: 2,
                             }}>
                                 <TextInput 
-                                    style={styles.entry_secure}
+                                    style={styles.entry}
                                     secureTextEntry={true}
                                 />
                             </View>
-                            <Text style={styles.entry_header}>Confirm Password</Text>
-                            <View style={{
-                                borderColor: 'white',
-                                borderWidth: 2,
-                            }}>
-                                <TextInput 
-                                    style={styles.entry_secure}
-                                    secureTextEntry={true}
-                                />
-                            </View>
-                    </View>
-
-                    <View style={styles.frame}>
-                        <Text style={styles.header}>Now, pick your favorite content from Complex.</Text>
-                    </View>
-
-                    <View style={styles.frame}>
-                        {buttons}
-                    </View>
-
-                    <View style={styles.frame}>
-                        <GoToButton_Prefs target={"CentralHome"} desc={"continue"} states={buttons}/>
                     </View>
                 </View>
             </ScrollView>
@@ -117,23 +98,19 @@ const styles = StyleSheet.create({
     },
     header: {
         color: n_colors.white,
-        fontSize: 35,
+        fontSize: 40,
         textAlign: 'left',
         fontFamily: 'bebas',
-        marginBottom: 10
+        marginBottom: 10,
+        marginTop: 15
     },
     entry_header: {
         color: "#bbbbbb",
         fontSize: 25,
         fontFamily: 'bebas',
-        marginTop: 10
+        marginTop: 10,
     },
     entry: {
-        color: 'white',
-        fontFamily: 'bebas',
-        fontSize: 20,
-    },
-    entry_secure: {
         color: 'white',
         fontFamily: 'monospace',
         fontSize: 20,
@@ -143,4 +120,4 @@ const styles = StyleSheet.create({
     }
 });
 
-export default PrefsSelect;
+export default ChangePassword;

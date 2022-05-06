@@ -1,12 +1,32 @@
 /* eslint-disable prettier/prettier */
 import React from 'react';
 import { Component, useState, useRef } from 'react';
-import { Text, View, StyleSheet, Image, ScrollView, TextInput } from 'react-native';
+import { Text, View, StyleSheet, Image, ScrollView, TextInput, TouchableOpacity } from 'react-native';
 import GoToButton_Prefs_New, { GoToButton_Prefs } from '../assets/funcs/NavButtons';
+import { useNavigation } from '@react-navigation/native';
 import { PrefsButton } from '../assets/funcs/PrefsButtons';
 import { n_colors } from '../styles/Colors';
 
-class PrefsSelect extends Component {
+export function ProfilePictureButton({ target }) {
+    const navigation = useNavigation();
+    return (
+        <TouchableOpacity 
+            onPress={() => navigation.navigate(target)}
+        >
+            <View>
+                <Image 
+                    style={{
+                        height: 310,
+                        width: '100%',
+                    }} 
+                    source={require("../assets/imgs/const/default_pfp.png")}
+                />
+            </View>
+        </TouchableOpacity>
+    );
+}
+
+class PrefsSelect_PreImage extends Component {
     disp() {
         const depts = ["Music", "Pop Culture", "Style", "Sneakers", "Sports", "General News"]
         const buttons = depts.map((dept) =>
@@ -23,15 +43,7 @@ class PrefsSelect extends Component {
                                 borderColor: 'white',
                                 borderWidth: 2,
                             }}>
-                                <Image
-                                    style={{
-                                        height: 310,
-                                        width: '100%',
-                                    }}
-                                    source={
-                                        require("../assets/imgs/const/best_dev.jpg")
-                                    }
-                                />
+                                <ProfilePictureButton target={"PrefsSelect"}/>
                             </View>
                             <Text style={styles.entry_header}>Name</Text>
                             <View style={{
@@ -143,4 +155,4 @@ const styles = StyleSheet.create({
     }
 });
 
-export default PrefsSelect;
+export default PrefsSelect_PreImage;

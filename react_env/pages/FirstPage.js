@@ -14,7 +14,7 @@ class FirstPage extends Component {
                     <Image 
                     source={require("../assets/imgs/const/logo.png")}
                     style={styles.logo}/>
-                    <GoToButton target={"PrefsSelect"} desc={"tap to begin"}/>
+                    <GoToButton target={"PrefsSelect_PreImage"} desc={"tap to begin"}/>
                 </View>
 			</View>
         );
@@ -33,6 +33,7 @@ const styles = StyleSheet.create({
 	main: {
 		flexDirection: 'column',
 		flex: 1,
+        backgroundColor: 'black'
 	},
 	disp: {
 		flex: 1,

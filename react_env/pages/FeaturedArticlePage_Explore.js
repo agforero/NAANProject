@@ -8,7 +8,7 @@ import { n_colors } from '../styles/Colors';
 import Arrow from 'react-native-arrow'
 let articles = require('../assets/articles/exp_complex_scrape.json');
 
-function BackArrow({target}) {
+export function BackArrow({target}) {
     const navigation = useNavigation();
     return (
         <TouchableOpacity onPress={() => navigation.navigate(target)}>
@@ -67,6 +67,7 @@ const styles = StyleSheet.create({
 	main: {
 		flexDirection: 'column',
 		flex: 1,
+        backgroundColor: 'black'
 	},
 	disp: {
 		flex: 1,

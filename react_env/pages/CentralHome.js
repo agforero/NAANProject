@@ -124,6 +124,7 @@ const styles = StyleSheet.create({
 	main: {
 		flexDirection: 'column',
 		flex: 1,
+        backgroundColor: 'black'
 	},
 	disp: {
 		flex: 1,

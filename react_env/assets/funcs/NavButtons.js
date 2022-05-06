@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
     button_prefs: {
       alignItems: "center",
       backgroundColor: n_colors.black,
-      marginTop: 100,
+      marginTop: 10,
     },
     button_debug: {
       alignItems: "center",

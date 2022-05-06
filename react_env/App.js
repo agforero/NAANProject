@@ -37,15 +37,21 @@ const Tab = createBottomTabNavigator();
 
 import { n_colors } from './styles/Colors';
 import FirstPage from './pages/FirstPage';
+import PrefsSelect_PreImage from './pages/PrefsSelect_PreImage';
 import PrefsSelect from './pages/PrefsSelect';
+import ChangePassword from './pages/ChangePassword';
+import ChangeSubd from './pages/ChangeSubd';
 import CentralHome from './pages/CentralHome';
 import CentralExplore from './pages/CentralExplore'
 import LinksHome from './pages/LinksHome';
 import LinksExplore from './pages/LinksExplore';
 import FeaturedArticlePage_Home from './pages/FeaturedArticlePage_Home'
 import FeaturedArticlePage_Explore from './pages/FeaturedArticlePage_Explore'
+import FeaturedLink_Home from './pages/FeaturedLink_Home';
+import FeaturedLink_Home_Post from './pages/FeaturedLink_Home_Post';
 import HamburgerCentral from './pages/HamburgerCentral'
 import HamburgerLinks from './pages/HamburgerLinks'
+import ProfilePage from './pages/ProfilePage'
 
 import ComplexMusicPage from './pages/central/ComplexMusicPage'
 import ComplexLifePage from './pages/central/ComplexLifePage'
@@ -172,8 +178,29 @@ const App: () => Node = () => {
           }}
         />
         <Stack.Screen
+          name="PrefsSelect_PreImage"
+          component={PrefsSelect_PreImage}
+          options={{
+            headerShown: false
+          }}
+        />
+        <Stack.Screen
           name="PrefsSelect"
           component={PrefsSelect}
+          options={{
+            headerShown: false
+          }}
+        />
+        <Stack.Screen
+          name="ChangePassword"
+          component={ChangePassword}
+          options={{
+            headerShown: false
+          }}
+        />
+        <Stack.Screen
+          name="ChangeSubd"
+          component={ChangeSubd}
           options={{
             headerShown: false
           }}
@@ -211,6 +238,14 @@ const App: () => Node = () => {
           }}
         />
         <Stack.Screen
+          name="ProfilePage"
+          component={ProfilePage}
+          options={{
+            headerShown: true,
+            headerTitle: (props) => <TopNav_Links {...props} />
+          }}
+        />
+        <Stack.Screen
           name="HamburgerCentral"
           component={HamburgerCentral}
           options={{
@@ -240,6 +275,22 @@ const App: () => Node = () => {
           options={{
             headerShown: true,
             headerTitle: (props) => <TopNav_Central {...props} />
+          }}
+        />
+        <Stack.Screen
+          name="FeaturedLink_Home"
+          component={FeaturedLink_Home}
+          options={{
+            headerShown: true,
+            headerTitle: (props) => <TopNav_Links {...props} />
+          }}
+        />
+        <Stack.Screen
+          name="FeaturedLink_Home_Post"
+          component={FeaturedLink_Home_Post}
+          options={{
+            headerShown: true,
+            headerTitle: (props) => <TopNav_Links {...props} />
           }}
         />
         <Stack.Screen

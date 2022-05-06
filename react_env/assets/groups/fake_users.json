@@ -1,0 +1,44 @@
+{
+    "fake_users": [
+        {
+            "img_src": "../assets/imgs/fakepeople/p0.jpg",
+            "username": "Sarah_Hamm"
+        },
+        {
+            "img_src": "../assets/imgs/fakepeople/p1.jpg",
+            "username": "BananaBoy92"
+        },
+        {
+            "img_src": "../assets/imgs/fakepeople/p2.jpg",
+            "username": "AmericaTheBeautiful"
+        },
+        {
+            "img_src": "../assets/imgs/fakepeople/p3.jpg",
+            "username": "CheeseTouch"
+        },
+        {
+            "img_src": "../assets/imgs/fakepeople/p4.jpg",
+            "username": "NietzscheEnthusiast"
+        },
+        {
+            "img_src": "../assets/imgs/fakepeople/p5.jpg",
+            "username": "Karen"
+        },
+        {
+            "img_src": "../assets/imgs/fakepeople/p6.jpg",
+            "username": "CooperMama"
+        },
+        {
+            "img_src": "../assets/imgs/fakepeople/p7.jpg",
+            "username": "ElfOnAShelf"
+        },
+        {
+            "img_src": "../assets/imgs/fakepeople/p8.jpg",
+            "username": "BananaBoss95"
+        },
+        {
+            "img_src": "../assets/imgs/fakepeople/p9.jpg",
+            "username": "ScooterChad17"
+        }
+    ]
+}
