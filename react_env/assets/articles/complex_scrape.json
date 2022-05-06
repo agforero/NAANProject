@@ -93,100 +93,128 @@
     ],
     "main": [
         {
-            "author": "Joe Price",
-            "desc": "In a new 'Breakfast Club' interview, Jack Harlow talked about adding more bars to his verse on \"Churchill Downs\" after he heard Drake's contribution.",
+            "author": "Complex",
+            "desc": "Despite its name, the new single from the Drake-approved Mississauga artist is not about video games. \"Xbox\" is the lead single from Ram's next LP, 'SD2.'",
             "id": "main_0",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/bchxu2fsqvxuidhkl7rg/ramriddlz.jpg",
+            "subdivision": "main",
+            "title": "Ramriddlz Drops \"Xbox,\" the Lead Single From His Next Album 'SD2'",
+            "url": "https://www.complex.com/music/ramriddlz-xbox"
+        },
+        {
+            "author": "Complex",
+            "desc": "Jack Harlow's new album 'Come Home the Kids Miss You' has arrived. What's the best song? Biggest skip? Here's our first impressions review of the album.",
+            "id": "main_1",
+            "img_url": "https://images.complex.com/images/c_crop,h_1075,w_1911,x_7,y_146/c_limit,h_1080,w_1920/th8qur7q7ssspo0tssy0/jack-harlow-first-listen-review.jpg",
+            "subdivision": "main",
+            "title": "First Impressions of Jack Harlow's New Album 'Come Home the Kids Miss You'",
+            "url": "https://www.complex.com/music/jack-harlow-come-home-the-kids-miss-you-first-impressions-review/"
+        },
+        {
+            "author": "Complex",
+            "desc": "Anticipation's been building ever since we got the first taste of the new tape when he released \"Blew\" with Rimzee way back in January last year.",
+            "id": "main_2",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/ovq3mpxx768i7qjsqooq/stardom-street-profit.jpg",
+            "subdivision": "main",
+            "title": "Stardom's 'Street Profit' Mixtape Is Here f/ K-Trap, Snap Capone, Ling Hussle & More",
+            "url": "https://www.complex.com/music/stardom-street-profit"
+        },
+        {
+            "author": "Complex",
+            "desc": "During an appearance on 'Jimmy Kimmel Live,' Hart addressed Dave Chappelle being tackled onstage and said that the attacker getting beat up \"needed to happen.\"",
+            "id": "main_3",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/bwjktdmzg5y0bgylj6kf/kevin-hart-dave-chappelle.jpg",
+            "subdivision": "main",
+            "title": "Kevin Hart on Why He Believes Dave Chappelle's Attacker Getting Beat Up 'Needed to Happen'",
+            "url": "https://www.complex.com/pop-culture/kevin-hart-addresses-dave-chappelle-attacker-getting-beat-up-needed-to-happen"
+        },
+        {
+            "author": "Complex",
+            "desc": "In a new 'Breakfast Club' interview, Jack Harlow talked about adding more bars to his verse on \"Churchill Downs\" after he heard Drake's contribution.",
+            "id": "main_4",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/zc1qbd3jqhbp7ntia7rc/jack-harlow.jpg",
             "subdivision": "main",
             "title": "Jack Harlow on Adding More Bars to His \"Churchill Downs\" Verse After Hearing Drake's, Explains Viral Vacation Video",
             "url": "https://www.complex.com/music/jack-harlow-added-more-bars-after-hearing-drake-verse-churchill-downs"
         },
         {
-            "author": "Lei Takanashi",
+            "author": "Complex",
             "desc": "From Cardi B and Offset's $200,000 chain for Wave to Pusha T's celebratory grills from Gabby Elan here are some of April's biggest celebrity jewelry purchases.",
-            "id": "main_1",
+            "id": "main_5",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/z2jpum4ebvmn2igrxyor/biggest-celebrity-jewelry-purchases-april-2022.jpg",
             "subdivision": "main",
             "title": "Some of April's Biggest Jewelry Purchases from Pusha T, Offset, Megan Thee Stallion, and More",
             "url": "https://www.complex.com/style/biggest-celebrity-jewelry-purchases-april-2022/"
         },
         {
-            "author": "Sanj Patel",
+            "author": "Complex",
             "desc": "Following a huge demand from the label's audience, Hoorich heading into summer with a huge statement, with the release of its first women's collection",
-            "id": "main_2",
+            "id": "main_6",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/oxugy7qvea2tooy7ahl1/hoodrich-womens-collection-lead.jpg",
             "subdivision": "main",
             "title": "Hoodrich Unleashes Its First Women's Collection",
             "url": "https://www.complex.com/style/hoodrich-debut-womens-collection"
         },
         {
-            "author": "Sydney Brasil",
+            "author": "Complex",
             "desc": "Drake and Future paid homage to the former's hometown by filming at one of its most iconic and notable locations, Casa Loma, for the \"Wait for U\" music video.",
-            "id": "main_3",
+            "id": "main_7",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/zhur6kmz13m1yti2wbiq/drake-future.jpg",
             "subdivision": "main",
             "title": "Drake and Future's \"Wait for U\" Music Video Was Filmed at Toronto's Casa Loma",
             "url": "https://www.complex.com/music/drake-future-casa-loma"
         },
         {
-            "author": "Sanj Patel",
+            "author": "Complex",
             "desc": "Italian streetwear imprint Stone Island has expanded its Spring/Summer 2022 collection with the launch of its new Cotton Ripstop OFF-DYE OVD capsule.",
-            "id": "main_4",
+            "id": "main_8",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/yknwbffyayegiymifxm8/stone-island-cotton-ripstop-off-dye-ovd-lead.jpg",
             "subdivision": "main",
             "title": "Stone Island Continues Spring/Summer 2022 Rollout with Cotton Ripstop Capsule",
             "url": "https://www.complex.com/style/stone-island-ss22-cotton-ripstop-capsule"
         },
         {
-            "author": "Trace William Cowen",
+            "author": "Complex",
             "desc": "In an extended statement, Carnage thanked fans for their support throughout his career, noting these shows will serve as his journey's \"grand finale.\"",
-            "id": "main_5",
+            "id": "main_9",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/anovvzrmon1ji5qfavsp/carnage-press-photo-2022.jpg",
             "subdivision": "main",
             "title": "Carnage Announces Retirement, Shares Final Show Dates: 'Carnage Has Been Put to Rest and Is Officially Dead'",
             "url": "https://www.complex.com/music/carnage-shares-final-tour-dates-announces-retirement"
-        },
-        {
-            "author": "Sanj Patel",
-            "desc": "New York-based label Aime Leon Dore and Woolrich are back together again for a collaborative Spring/Summer 2022 collection inspired by the great outdoors.",
-            "id": "main_6",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/eposlbvhpkip4ranydnf/ald-woolrich-collab.jpg",
-            "subdivision": "main",
-            "title": "Woolrich x Aime Leon Dore Team up for Debut Spring/Summer 2022 Collection",
-            "url": "https://www.complex.com/style/woolrich-aime-leon-dore-ss22-collab"
-        },
-        {
-            "author": "Andrew D. Luecke",
-            "desc": "Male, who was added to the NCA's most wanted list earlier this year, is charged with a series of offences including, conspiracy to supply class A drugs, money",
-            "id": "main_7",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/gcelwdwjnprw6dfohqbh/macys-all-for-building-it-spectrum-2022.jpg",
-            "subdivision": "main",
-            "title": "Macy's All For Building It Series is Back for 2022",
-            "url": "https://www.complex.com/style/macys-all-for-building-it-2022"
-        },
-        {
-            "author": "Sanj Patel",
-            "desc": "During an appearance on the 'Cigar Talk' podcast, Antonio Brown shared his thoughts on Colin Kaepernick's ongoing attempt at an NFL comeback.",
-            "id": "main_8",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/g8lsoipor1cyil9mxfqu/uk-most-wanted-man.jpg",
-            "subdivision": "main",
-            "title": "Alex Male, One Of The UK's Most Wanted Men, Has Been Arrested",
-            "url": "https://www.complex.com/life/one-of-britians-most-wanted-men-arrested"
-        },
-        {
-            "author": "Brad Callas",
-            "id": "main_9",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/yq3h9ukk46hvgloqgdo7/antonio-brown-rips-colin-kaepernick.jpg",
-            "subdivision": "main",
-            "title": "Antonio Brown Calls Colin Kaepernick 'Trash,' Says 'We Don't See Him in the Hood'",
-            "url": "https://www.complex.com/sports/antionio-brown-calls-colin-kaepernick-trash"
         }
     ],
     "music": [
         {
             "author": "Complex",
-            "desc": "In a new 'Breakfast Club' interview, Jack Harlow talked about adding more bars to his verse on \"Churchill Downs\" after he heard Drake's contribution.",
+            "desc": "Despite its name, the new single from the Drake-approved Mississauga artist is not about video games. \"Xbox\" is the lead single from Ram's next LP, 'SD2.'",
             "id": "music_10",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/bchxu2fsqvxuidhkl7rg/ramriddlz.jpg",
+            "subdivision": "music",
+            "title": "Ramriddlz Drops \"Xbox,\" the Lead Single From His Next Album 'SD2'",
+            "url": "https://www.complex.com/music/ramriddlz-xbox"
+        },
+        {
+            "author": "Complex",
+            "desc": "Jack Harlow's new album 'Come Home the Kids Miss You' has arrived. What's the best song? Biggest skip? Here's our first impressions review of the album.",
+            "id": "music_11",
+            "img_url": "https://images.complex.com/images/c_crop,h_1075,w_1911,x_7,y_146/c_limit,h_1080,w_1920/th8qur7q7ssspo0tssy0/jack-harlow-first-listen-review.jpg",
+            "subdivision": "music",
+            "title": "First Impressions of Jack Harlow's New Album 'Come Home the Kids Miss You'",
+            "url": "https://www.complex.com/music/jack-harlow-come-home-the-kids-miss-you-first-impressions-review/"
+        },
+        {
+            "author": "Complex",
+            "desc": "Anticipation's been building ever since we got the first taste of the new tape when he released \"Blew\" with Rimzee way back in January last year.",
+            "id": "music_12",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/ovq3mpxx768i7qjsqooq/stardom-street-profit.jpg",
+            "subdivision": "music",
+            "title": "Stardom's 'Street Profit' Mixtape Is Here f/ K-Trap, Snap Capone, Ling Hussle & More",
+            "url": "https://www.complex.com/music/stardom-street-profit"
+        },
+        {
+            "author": "Complex",
+            "desc": "In a new 'Breakfast Club' interview, Jack Harlow talked about adding more bars to his verse on \"Churchill Downs\" after he heard Drake's contribution.",
+            "id": "music_13",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/zc1qbd3jqhbp7ntia7rc/jack-harlow.jpg",
             "subdivision": "music",
             "title": "Jack Harlow on Adding More Bars to His \"Churchill Downs\" Verse After Hearing Drake's, Explains Viral Vacation Video",
@@ -195,7 +223,7 @@
         {
             "author": "Complex",
             "desc": "Drake and Future paid homage to the former's hometown by filming at one of its most iconic and notable locations, Casa Loma, for the \"Wait for U\" music video.",
-            "id": "music_11",
+            "id": "music_14",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/zhur6kmz13m1yti2wbiq/drake-future.jpg",
             "subdivision": "music",
             "title": "Drake and Future's \"Wait for U\" Music Video Was Filmed at Toronto's Casa Loma",
@@ -204,7 +232,7 @@
         {
             "author": "Complex",
             "desc": "In an extended statement, Carnage thanked fans for their support throughout his career, noting these shows will serve as his journey's \"grand finale.\"",
-            "id": "music_12",
+            "id": "music_15",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/anovvzrmon1ji5qfavsp/carnage-press-photo-2022.jpg",
             "subdivision": "music",
             "title": "Carnage Announces Retirement, Shares Final Show Dates: 'Carnage Has Been Put to Rest and Is Officially Dead'",
@@ -213,7 +241,7 @@
         {
             "author": "Complex",
             "desc": "Puffy L'z and SAFE have shared their track \"Firm,\" along with its music video. Both hailing from Regent Park's Halal Gang, the collab comes naturally.",
-            "id": "music_13",
+            "id": "music_16",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/p0mupee0coa3dd2zdi7j/puffy-safe.jpg",
             "subdivision": "music",
             "title": "Puffy L'z and SAFE Link Up on \"Firm\"",
@@ -222,7 +250,7 @@
         {
             "author": "Complex",
             "desc": "Following Elon Musk's $44 billion Twitter buyout, rapper Meek Mill has asked the Tesla founder if there's any room for him to get in on the action.",
-            "id": "music_14",
+            "id": "music_17",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/lpcqkhqjayi5qqgugxca/meek-mill.jpg",
             "subdivision": "music",
             "title": "Meek Mill Asks 'Big Homie' Elon Musk to 'Let Us Invest in Twitter' After $44 Billion Buyout",
@@ -231,7 +259,7 @@
         {
             "author": "Complex",
             "desc": "Netflix has dropped a preview of Pete Davidson's set at the 'Netflix Is A Joke' festival. The clip sees the 'SNL' comedian joking about Kanye West.",
-            "id": "music_15",
+            "id": "music_18",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/lipc4rawhujeduzmxxzu/pete-davidson-kanye-netflix-is-a-joke-video.jpg",
             "subdivision": "music",
             "title": "Watch Pete Davidson Joke About Kanye West Drama at Netflix Comedy Festival",
@@ -240,45 +268,27 @@
         {
             "author": "Complex",
             "desc": "From their Met Gala 2021 outfits to the 'D.M.B.' music video, we're taking a look at Rihanna and A$AP Rocky's most iconic fashion moments together.",
-            "id": "music_16",
+            "id": "music_19",
             "img_url": "https://images.complex.com/images/c_crop,h_2846,w_5060,x_0,y_167/c_limit,h_1080,w_1920/t8agb3uuugx5zrwjdol7/rihanna-asap-rocky-dmb.jpg",
             "subdivision": "music",
             "title": "Fashion Killas: Rihanna and ASAP Rocky's Most Stylish Moments Together",
             "url": "https://www.complex.com/style/rihanna-asap-rocky-most-stylish-moments/"
-        },
-        {
-            "author": "Complex",
-            "desc": "Unapologetically grimey production by JakeBob sets the trio up perfectly as they combine their diverse flows with confident bars. The single follows the recent ",
-            "id": "music_17",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/fyntceino0ig8ruxsfpy/manga-saint-hilare-p-money-capo-lee-man-know.jpg",
-            "subdivision": "music",
-            "title": "Manga Saint Hilare Calls On P Money & Capo Lee For \"Man Know\"",
-            "url": "https://www.complex.com/music/manga-saint-hilare-p-money-capo-lee-man-know"
-        },
-        {
-            "author": "Complex",
-            "desc": "IDK has returned with an EP produced by Grammy Award-winning producer Kaytranada and it features appearances from Mike Dimes and Denzel Curry.",
-            "id": "music_18",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/fkxslwr7zmosxyqhenph/idk-kaytranada-cover-art.jpg",
-            "subdivision": "music",
-            "title": "IDK Releases Kaytranada-Produced EP 'Simple' f/ Denzel Curry and Mike Dimes",
-            "url": "https://www.complex.com/music/idk-kaytranada-simple-ep-stream"
-        },
-        {
-            "author": "Complex",
-            "desc": "He's been teasing it out, piece-by-piece since late last year, but Erdington's crown prince of rap has today made good on his promises with his debut album.",
-            "id": "music_19",
-            "img_url": "https://images.complex.com/images/c_crop,h_792,w_1200,x_0,y_0/c_limit,h_1080,w_1920/m5moxvygbs8gubiwkfqi/mowgs-the-bare-necessities.jpg",
-            "subdivision": "music",
-            "title": "Mowgs Unveils New Mixtape 'The Bare Necessities' f/ Rimzee, Mist, Country Dons & More",
-            "url": "https://www.complex.com/music/mowgs-the-bare-necessities"
         }
     ],
     "pop": [
         {
             "author": "Complex",
-            "desc": "From 'The Weeknd x The Dawn FM Experience' to 'Green,' here's everything worth watching on the streaming service this month. Get ready to binge.",
+            "desc": "During an appearance on 'Jimmy Kimmel Live,' Hart addressed Dave Chappelle being tackled onstage and said that the attacker getting beat up \"needed to happen.\"",
             "id": "pop_20",
+            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/bwjktdmzg5y0bgylj6kf/kevin-hart-dave-chappelle.jpg",
+            "subdivision": "pop",
+            "title": "Kevin Hart on Why He Believes Dave Chappelle's Attacker Getting Beat Up 'Needed to Happen'",
+            "url": "https://www.complex.com/pop-culture/kevin-hart-addresses-dave-chappelle-attacker-getting-beat-up-needed-to-happen"
+        },
+        {
+            "author": "Complex",
+            "desc": "From 'The Weeknd x The Dawn FM Experience' to 'Green,' here's everything worth watching on the streaming service this month. Get ready to binge.",
+            "id": "pop_21",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/qec0f6qggb64dct4c2fp/the-tender-bar.jpg",
             "subdivision": "pop",
             "title": "The Best Movies on Amazon Prime Video Canada Right Now",
@@ -287,7 +297,7 @@
         {
             "author": "Complex",
             "desc": "Need help on what movies on Netflix to watch? We've got you covered. Here are the best movies on Netflix that are good and worth watching this April 2022. ",
-            "id": "pop_21",
+            "id": "pop_22",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/qmlrvjsjpiezjfjuuiqm/42.jpg",
             "subdivision": "pop",
             "title": "The Best Movies on Netflix Right Now (May 2022)",
@@ -296,7 +306,7 @@
         {
             "author": "Complex",
             "desc": "Here are the best Netflix shows &amp; original series worth watching right now, including 'Squid Game,' 'Happy Endings,' 'You,' 'Stranger Things,' 'POSE' &amp; more.",
-            "id": "pop_22",
+            "id": "pop_23",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/folfwo24pwye9fnsjjfv/heartstoppers.jpg",
             "subdivision": "pop",
             "title": "The Best TV Shows on Netflix (May 2022) ",
@@ -305,7 +315,7 @@
         {
             "author": "Complex",
             "desc": "The actor opened up about his new song and music video for \"Soul Travel,\" making music, and what it means for him that 'Stranger Things' is coming to an end. ",
-            "id": "pop_23",
+            "id": "pop_24",
             "img_url": "https://images.complex.com/images/c_crop,h_1605,w_2593,x_74,y_221/c_limit,h_1080,w_1920/viuzlrnhzxroogyst9rg/caleb-mclaughlin-new-song.jpg",
             "subdivision": "pop",
             "title": "Caleb McLaughlin Releases New Song \"Soul Travel\" and Talks 'Stranger Things' Coming to an End",
@@ -314,7 +324,7 @@
         {
             "author": "Complex",
             "desc": "Wondering what's good on Amazon Prime Video Canada? From the Kids in the Hall reboot to Tokyo Vampire Hotel to Rick and Morty, these are the top shows to binge.",
-            "id": "pop_24",
+            "id": "pop_25",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/bnykr1oilspa2qsdegdz/kids-in-the-hall.jpg",
             "subdivision": "pop",
             "title": "The Best Shows on Amazon Prime Video Canada Right Now",
@@ -323,16 +333,16 @@
         {
             "author": "Complex",
             "desc": "The self-described image consultant and dating advisor reportedly died Thursday in his home. The cause of his death has yet to be confirmed.",
-            "id": "pop_25",
+            "id": "pop_26",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/mkb3wrvckzp1msvupsbm/kevin-samuels-reportedly-dead-at-57.jpg",
             "subdivision": "pop",
-            "title": "Kevin Samuels, Polarizing Influencer Who Gave Relationship Advice, Has Died",
+            "title": "Kevin Samuels, Polarizing Influencer Who Gave Relationship Advice, Dead at 57",
             "url": "https://www.complex.com/pop-culture/youtuber-kevin-samuels-dead"
         },
         {
             "author": "Complex",
             "desc": "Netflix has dropped a preview of Pete Davidson's set at the 'Netflix Is A Joke' festival. The clip sees the 'SNL' comedian joking about Kanye West.",
-            "id": "pop_26",
+            "id": "pop_27",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/lipc4rawhujeduzmxxzu/pete-davidson-kanye-netflix-is-a-joke-video.jpg",
             "subdivision": "pop",
             "title": "Watch Pete Davidson Joke About Kanye West Drama at Netflix Comedy Festival",
@@ -341,7 +351,7 @@
         {
             "author": "Complex",
             "desc": "The two appeared together at a secret show and addressed the recent Hollywood Bowl attack, with Rock again joking about Will Smith's Oscars slap.",
-            "id": "pop_27",
+            "id": "pop_28",
             "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/dn2qjwbfne0dnokwbimq/dave-chappelle-chris-rock-slap.jpg",
             "subdivision": "pop",
             "title": "Dave Chappelle and Chris Rock Talk Stage Attacks, Rock Jokes He Got 'Smacked by the Softest N***a That Ever Rapped'",
@@ -350,20 +360,11 @@
         {
             "author": "Complex",
             "desc": "Complex caught up with Benedict Cumberbatch to chat about working with Xochitl Gomez and the most challenging part of making 'Doctor Strange' 2.",
-            "id": "pop_28",
+            "id": "pop_29",
             "img_url": "https://images.complex.com/images/c_crop,h_1588,w_2772,x_91,y_1/c_limit,h_1080,w_1920/q0brbfsxnr2ponwdxulc/doctor-strange-benedict-interview.jpg",
             "subdivision": "pop",
             "title": "Benedict Cumberbatch Talks Working With Xochitl Gomez and the Most Challenging Part of Making 'Doctor Strange' 2",
             "url": "https://www.complex.com/pop-culture/2022/05/benedict-cumberbatch-doctor-strange-multiverse-madness-review/"
-        },
-        {
-            "author": "Complex",
-            "desc": "The latest from Doja Cat was previously given a live debut at this year's Coachella festival. It marks the first single from the 'Elvis' biopic soundtrack.",
-            "id": "pop_29",
-            "img_url": "https://images.complex.com/images/c_limit,h_1080,w_1920/uzbpbpjky9lrpbpgjw5g/doja.jpg",
-            "subdivision": "pop",
-            "title": "Doja Cat Shares New Song \"Vegas\" From Baz Luhrmann's 'Elvis' Biopic Soundtrack",
-            "url": "https://www.complex.com/music/doja-cat-shares-new-song-vegas-from-baz-luhrmann-elvis-biopic-soundtrack"
         }
     ],
     "sneakers": [

@@ -49,6 +49,9 @@ import FeaturedArticlePage_Home from './pages/FeaturedArticlePage_Home'
 import FeaturedArticlePage_Explore from './pages/FeaturedArticlePage_Explore'
 import FeaturedLink_Home from './pages/FeaturedLink_Home';
 import FeaturedLink_Home_Post from './pages/FeaturedLink_Home_Post';
+import CreateGroup from './pages/CreateGroup';
+import CreateGroup_Submitted from './pages/CreateGroup_Submitted';
+import PrivacyPolicy from './pages/PrivacyPolicy';
 import HamburgerCentral from './pages/HamburgerCentral'
 import HamburgerLinks from './pages/HamburgerLinks'
 import ProfilePage from './pages/ProfilePage'
@@ -290,6 +293,30 @@ const App: () => Node = () => {
           component={FeaturedLink_Home_Post}
           options={{
             headerShown: true,
+            headerTitle: (props) => <TopNav_Links {...props} />
+          }}
+        />
+        <Stack.Screen
+          name="CreateGroup"
+          component={CreateGroup}
+          options={{
+            headerShown: false,
+            headerTitle: (props) => <TopNav_Links {...props} />
+          }}
+        />
+        <Stack.Screen
+          name="CreateGroup_Submitted"
+          component={CreateGroup_Submitted}
+          options={{
+            headerShown: false,
+            headerTitle: (props) => <TopNav_Links {...props} />
+          }}
+        />
+        <Stack.Screen
+          name="PrivacyPolicy"
+          component={PrivacyPolicy}
+          options={{
+            headerShown: false,
             headerTitle: (props) => <TopNav_Links {...props} />
           }}
         />

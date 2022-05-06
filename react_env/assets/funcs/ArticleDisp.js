@@ -12,10 +12,7 @@ export function FeaturedArticle({ title, img_url }) {
             <View>
                 <Text style={styles.featured_title}>{title}</Text>
             </View>
-
         </View>
-
-        
     );
 }
 

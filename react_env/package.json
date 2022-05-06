@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@react-native-community/checkbox": "^0.5.12",
+    "@react-native-picker/picker": "^2.4.1",
     "@react-navigation/bottom-tabs": "^6.3.1",
     "@react-navigation/native": "^6.0.10",
     "@react-navigation/native-stack": "^6.6.2",
@@ -19,6 +20,7 @@
     "react-native-arrow": "^1.0.3",
     "react-native-bouncy-checkbox": "^2.1.10",
     "react-native-cached-image": "^1.4.3",
+    "react-native-dropdown-picker": "^5.4.2",
     "react-native-fs": "^2.20.0",
     "react-native-safe-area-context": "^4.2.5",
     "react-native-screens": "^3.13.1",

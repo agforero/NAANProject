@@ -20,6 +20,21 @@ export function GoToButton({ target, desc }) {
     );
 }
 
+export function GoToButton_Right({ target, desc }) {
+  const navigation = useNavigation();
+  return (
+    <TouchableOpacity
+      style={styles.button}
+      title={desc}
+      onPress={() => navigation.navigate(target)}
+    >
+      <View>
+        <Text style={styles.label_right}>{desc} ⟹</Text>
+      </View>
+    </TouchableOpacity>
+  );
+}
+
 export function GoToButton_NoArrow({ target, desc }) {
   const navigation = useNavigation();
   return (
@@ -160,6 +175,15 @@ const styles = StyleSheet.create({
       fontFamily: 'serif',
       fontStyle: 'italic',
       marginRight: 5
+    },
+    label_right: {
+      color: n_colors.white,
+      fontSize: 20,
+      textAlign: 'right',
+      fontFamily: 'serif',
+      fontStyle: 'italic',
+      marginRight: 5,
+      
     },
     central_white: {
       color: 'white',

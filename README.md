@@ -19,3 +19,4 @@ These are things that keep this hi-fi prototype from just being a fully-function
 * Not sure if this will be the case for every Android emulator, but Google Chrome on an emulator running a Pixel 5 (API 32) is pretty janky looking. See [here](react_env/assets/imgs/const/chrome_jank.png) for an example. This isn't necessarily a problem with the app, it just makes testing a little tougher.
 * Sometimes, images don't load quickly enough for the app to display them. (Might be fixed? We added `resizeMethod='resize'` as an attribute of the `<Image>`s and it seems to work).
 * Hamburger always returns back to Home instead of Explore for both Central and Links.
+* Articles displayed in the app are not scraped from React itself (by running requests on the RSS feed of Complex or something). Rather, they're scraped by a Python script (`scraper.py`) and stored as `.json` data in `/react_env/assets/articles/`.

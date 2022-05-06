@@ -21,9 +21,11 @@ class HamburgerLinks extends Component {
             <View style={styles.disp}>
                 <ScrollView>
                     <View>
+                        <OptionClickable target={"CreateGroup"} label={"Create a Link"}/>
                         <OptionClickable target={"ProfilePage"} label={"Profile"}/>
                         <OptionClickable target={"ChangePassword"} label={"Change Password"}/>
                         <OptionClickable target={"ChangeSubd"} label={"Select New Content"}/>
+                        <OptionClickable target={"PrivacyPolicy"} label={"Privacy Policy"}/>
                     </View>
                 </ScrollView>
 			</View>
