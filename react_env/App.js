@@ -244,7 +244,7 @@ const App: () => Node = () => {
           name="ProfilePage"
           component={ProfilePage}
           options={{
-            headerShown: true,
+            headerShown: false,
             headerTitle: (props) => <TopNav_Links {...props} />
           }}
         />
