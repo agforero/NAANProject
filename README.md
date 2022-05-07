@@ -6,7 +6,7 @@
 
 This is a hi-fi prototype for the Complex app, which would help Complex engage with their Generation Z audience, and enrich their community by bringing their fans together.
 
-**Complex Central** is essentially a mobile version of their website, with some ML thrown in for effect. A Python script (`scraper.py`) scrapes [Complex's RSS feed](https://www.complex.com/share) for their latest articles and compiles them on the front page. The user is recommended articles that appeal to their tastes, and the machine learning algorithm learns over time what articles they're most likely to click on (though, in this prototype, there is no such model).
+**Complex Central** is essentially a mobile version of their website, with some machine learning thrown in for effect. A Python script (`scraper.py`) scrapes [Complex's RSS feed](https://www.complex.com/share) for their latest articles and compiles them on the front page. The user is recommended articles that appeal to their tastes, and the machine learning algorithm learns over time what articles they're most likely to click on (though, in this prototype, there is no such model).
 
 **Complex Links** is a forum-based discussion service that enables Complex fans to come together and discuss their common interests: sneakers, style, sports, whatever they like. It's simple, doesn't take much effort to navigate, and brings people together (especially during these weird COVID times). 
 
@@ -16,7 +16,7 @@ This is a hi-fi prototype for the Complex app, which would help Complex engage w
 2. [React Native (latest version) for Android](https://reactnative.dev/docs/environment-setup)
     * Please do yourself a favor and use the **React Native CLI Quickstart** instructions. Following the other set of instructions led to some inexplicable errors.
 3. [Android Studio](https://developer.android.com/studio)
-    * You'll need this to [set up an Android Emulator](https://developer.android.com/studio/run/managing-avds). We developed this prototype with a **Pixel 5** running **API 32**, so you should set up the same device. Some UI elements might be contorted otherwise.
+    * You'll need this to [set up an Android Emulator](https://developer.android.com/studio/run/managing-avds). I developed this prototype with a **Pixel 5** running **API 32**, so you should set up the same device. Some UI elements might be contorted otherwise.
 
 ### Required Python libraries:
 
