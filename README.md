@@ -2,6 +2,13 @@
 
 ## A hi-fi prototype for a mobile app for [Complex](https://www.complex.com/) as a part of [Cornell Tech's BigCo Studio](https://tech.cornell.edu/studio/curriculum/bigco-studio/) course.
 
+### Researched and developed by:
+
+* [Agustin Forero, CS](https://www.linkedin.com/in/afor/)
+* [Ashley Shen, ORIE](https://www.linkedin.com/in/ashley-shen-114231170/)
+* [Nadia Samman, LLM](https://www.linkedin.com/in/nadiasamman/)
+* [Noor Nabi, LLM](https://www.linkedin.com/in/noor-abdel-nabi-1bb5a717a)
+
 ### Summary:
 
 This is a hi-fi prototype for the Complex app, which would help Complex engage with their Generation Z audience, and enrich their community by bringing their fans together.
